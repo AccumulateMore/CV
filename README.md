@@ -11,3 +11,7 @@
 备注：Pytorch笔记已经更新完，CV的笔记正在努力更新中，如下图所示。
 
 ![image](https://user-images.githubusercontent.com/60348867/164893148-c822684a-fa07-4730-9e78-aac1df48cc3e.png)
+
+补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
+
+1. https://github.com/AccumulateMore
