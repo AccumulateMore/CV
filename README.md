@@ -2,11 +2,11 @@
 
 最全面的 CV 笔记
 
-Pytorch视频教程：（ 手撕代码、百万播放量 ）
+Pytorch视频教程：（ 手撕代码、百万播放量 【up主：我是土堆】）
 
 1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
 
-CV神经网络视频教程：( 自定义函数，不用框架，百万播放量 )
+CV神经网络视频教程：( 自定义函数，不用框架，百万播放量 【up主：跟李沐学AI】)
 
 1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 
