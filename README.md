@@ -1,6 +1,6 @@
 # 最全面的 CV 笔记
 
-Pytorch视频教程：（ 手撕代码、百万播放量 【up主：我是土堆】）（ 对应笔记：P00-P22 ）
+Pytorch视频教程：( 手撕代码、百万播放量 【up主：我是土堆】）（ 对应笔记：P00-P22 ）
 
 1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
 
