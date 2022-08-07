@@ -1,6 +1,6 @@
 # 最全面的 CV 笔记
 
-Pytorch视频讲解：( 手撕代码、百万播放量 【up主：我是土堆】）（ 对应笔记：P00-P22 ）
+Pytorch视频讲解：( 手撕代码，百万播放量 【up主：我是土堆】）（ 对应笔记：P00-P22 ）
 
 1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
 
@@ -16,7 +16,7 @@ CV神经网络视频讲解：( 自定义函数，不用框架，百万播放量 
 
 ![image](https://user-images.githubusercontent.com/60348867/183287904-f6e274e2-59bd-42c9-9b56-7de6d7776538.png)
 
-备注：Pytorch笔记、CV神经网络笔记已经更新完，工业项目(自动驾驶目标检测、人脸检测)正在整理中，如下图所示。
+备注：Pytorch笔记、CV神经网络笔记已经更新完，工业项目(自动驾驶目标检测、人脸检测)正在整理中。
 
 补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
