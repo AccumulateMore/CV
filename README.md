@@ -10,7 +10,7 @@ CV神经网络视频讲解：( 自定义函数，不用框架，百万播放量 
 
 代码数据集：
 
-1. 链接：https://pan.baidu.com/s/1HMgtHE8N6G1nazvAUy_zNQ  提取码：qo5b 
+1. 链接：https://pan.baidu.com/s/1QBbOm5GXh6WVnVh0up-6SQ  提取码：ryxb 
 
 备注：安装Jupyter Notebook的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。
 
