@@ -1,10 +1,14 @@
 # 最全面的 深度学习CV 笔记
 
+CV 神经网络 视频讲解【主讲人：吴恩达】【对应笔记：P92-... 更新中】
+
+1. https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
+
 CV 神经网络 视频讲解【主讲人：李沐】【对应笔记：P23-P91】
 
 1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 
-Pytorch 视频讲解【主讲人：我是土堆】【对应笔记：P00-P22】 
+Pytorch 视频讲解【主讲人：土堆】【对应笔记：P00-P22】 
 
 1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
 
@@ -16,7 +20,7 @@ Pytorch 视频讲解【主讲人：我是土堆】【对应笔记：P00-P22】
 
 ![image](https://user-images.githubusercontent.com/60348867/183287904-f6e274e2-59bd-42c9-9b56-7de6d7776538.png)
 
-备注：Pytorch笔记、CV神经网络笔记已经更新完，工业项目(自动驾驶目标检测、人脸检测)正在整理中。
+备注：Pytorch笔记、CV基本神经网络笔记已经更新完，工业项目(自动驾驶目标检测、人脸检测)正在整理中。
 
 补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
