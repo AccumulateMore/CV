@@ -1,12 +1,12 @@
 # 最全面的 深度学习CV 笔记
 
-Pytorch 视频讲解 【对应笔记：P00-P22】 
-
-1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
-
-CV 神经网络 视频讲解【对应笔记：P23-P91】
+CV 神经网络 视频讲解【主讲人：李沐】【对应笔记：P23-P91】
 
 1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+
+Pytorch 视频讲解【主讲人：我是土堆】【对应笔记：P00-P22】 
+
+1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
 
 代码数据集：
 
