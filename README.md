@@ -12,9 +12,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
 
-数据集
+数据集：
 
-链接：https://pan.baidu.com/s/1QBbOm5GXh6WVnVh0up-6SQ 提取码：ryxb
+1. 链接：https://pan.baidu.com/s/1QBbOm5GXh6WVnVh0up-6SQ 提取码：ryxb
 
 备注：安装Jupyter Notebook的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。
 
