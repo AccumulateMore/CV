@@ -14,7 +14,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 数据集：
 
-1. 链接：https://pan.baidu.com/s/1QBbOm5GXh6WVnVh0up-6SQ 提取码：ryxb
+1. 链接：https://pan.baidu.com/s/1PXnqhGGRqoM4-y8-eB3Ulw 提取码：gjmv 
 
 备注：安装Jupyter Notebook的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。
 
