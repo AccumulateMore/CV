@@ -18,7 +18,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 备注：
 
-1. 笔记是用Jupyter Notebook打开的，不会打开的，百度查一下"Anacond如何打开jupyter notebook文件"，或者我的主页Python仓库里面Python编辑器里面有写。
+1. 笔记是用Jupyter Notebook打开的，不会打开的，百度查一下"Anaconda如何打开jupyter notebook文件"，或者我的主页Python仓库里面Python编辑器里面有写。
 2. 安装Jupyter Notebook的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。
 
 ![image](https://user-images.githubusercontent.com/60348867/184626973-5f344b32-9b82-4164-a18b-ec8f25684692.png)
