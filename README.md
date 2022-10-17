@@ -7,6 +7,8 @@ CV 神经网络 视频讲解【主讲人：吴恩达】【对应笔记：94-... 
 CV 神经网络 视频讲解【主讲人：李沐】【对应笔记：24-93】
 
 1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+2. 《动手学深度学习》课本：https://zh-v2.d2l.ai
+3. 《动手学深度学习》课程主页：https://courses.d2l.ai/zh-v2
 
 Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
@@ -14,7 +16,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 数据集：
 
-1. 链接：https://pan.baidu.com/s/1PXnqhGGRqoM4-y8-eB3Ulw 提取码：gjmv 
+1. 链接：https://pan.baidu.com/s/1NQE3-zgswVJwp9AGFo7JDQ 提取码：kfuf
 
 备注：
 
