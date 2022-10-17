@@ -14,7 +14,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 数据集：
 
-1. 链接：https://pan.baidu.com/s/1PXnqhGGRqoM4-y8-eB3Ulw 提取码：gjmv 
+1. 链接：https://pan.baidu.com/s/1NQE3-zgswVJwp9AGFo7JDQ 提取码：kfuf 
 
 备注：
 
