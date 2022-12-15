@@ -37,7 +37,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 | 学习交流群                                                    | 个人微信                                                 |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
-| ![178d9778939b2d73cece963dbe1677b](https://user-images.githubusercontent.com/60348867/207805732-35e3f5b3-f06d-47e0-8bf1-9e904e7587c5.jpg)<br> | 
+| ![178d9778939b2d73cece963dbe1677b](https://user-images.githubusercontent.com/60348867/207805732-35e3f5b3-f06d-47e0-8bf1-9e904e7587c5.jpg)<br/> | 
 ![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207805807-0fc9ede2-fab5-4270-8957-ef4a8ce94406.jpg)<br> | 
 
 备注：如果群二维码失效，加我个人微信，拉你进群。
