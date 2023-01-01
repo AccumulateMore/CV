@@ -1,5 +1,7 @@
-# /.ipynb_checkpoints
+/.ipynb_checkpoints
 /dataset
-# /model
+/logs
+# /Data
+
 *.pth
 __pycache__
