@@ -39,6 +39,6 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 | 学习交流群                                                    | 个人微信                                                 |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
-| ![cd4717144ee495fdad02a821afa59b7](https://user-images.githubusercontent.com/60348867/211482662-75d4e687-0d8a-45e8-a55e-be6909f7e13c.jpg)<br/> | ![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
+| ![a81fb24ef005d7dd2a6173a3222ff50](https://user-images.githubusercontent.com/60348867/212638569-15583e02-329a-455c-b4c4-0b6ac41ee3c3.jpg)<br/> | ![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
 
 备注：如果群二维码失效，加我个人微信，拉你进群。另外，申请加微信好友时，请备注来源：深度学习 学习交流。
