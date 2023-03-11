@@ -14,7 +14,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 数据集：
 
-1. 链接：https://pan.baidu.com/s/1NQE3-zgswVJwp9AGFo7JDQ 提取码：kfuf 
+1. 链接：https://pan.baidu.com/s/1tOQLP2SVmJsSidK0xJ8AkA  提取码：t8hq 
 
 备注：
 
@@ -39,7 +39,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 | 学习交流群                                                    | 个人微信                                                 |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
-| ![5a7a9f44335f3cd04461bff4052f1d4](https://user-images.githubusercontent.com/60348867/223648964-cb5f880e-d00f-4edb-ac52-bd5f5cebe0b9.jpg)<br/> | ![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
+| ![3b02bffb4491166f5101a339fbb074a](https://user-images.githubusercontent.com/60348867/224459745-53fab9eb-a62c-4b56-8d1e-a8edd2258e9b.jpg)<br/> | ![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
 
 备注：如果群二维码失效，加我个人微信，拉你进群。另外，申请加微信好友时，请备注来源：深度学习 学习交流。
 
