@@ -18,7 +18,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 备注：
 
-1. 笔记是用Jupyter Notebook打开的，不会打开的，百度查一下"Anaconda如何打开jupyter notebook文件"，或者我的主页Python仓库里面Python编辑器里面有写。
+1. 笔记是用Jupyter Notebook打开的，不会打开的，百度查一下"Anaconda如何打开jupyter notebook文件"，或者我的主页Python仓库里面"00_Python编辑器"里面有写。
 2. 安装Jupyter Notebook的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。
 
 ![image](https://user-images.githubusercontent.com/60348867/184626973-5f344b32-9b82-4164-a18b-ec8f25684692.png)
@@ -45,7 +45,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 |【深度学习 学习交流②群】| 个人微信 | 
 | -------------------- | -------- | 
-| ![c1c414c7d77f1e3a0e07b9914b38829](https://user-images.githubusercontent.com/60348867/232680074-fdaf8e34-498b-4273-8863-6e5278cd1642.jpg)<br/> |![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
+| ![24de2d317b6f6e87f3d692774f6de1c](https://user-images.githubusercontent.com/60348867/233889344-0040e454-006b-4540-9261-a0a35e529f10.jpg)<br/> |![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
 
 备注：
 
@@ -72,8 +72,8 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 备注：
 
-1. 初学者也可以根据市场上就业需求，去学习自己。
-2. 想内推简历的，可以联系我，把你们项目组的岗位职责、任职要求发给我【你收公司内推奖金、ta们就业，双赢】。
+1. 初学者可以根据市场上就业需求，去学习自己。
+2. 能内推简历的，可以联系我，把项目组的岗位职责、任职要求发给我【你收公司内推奖金、ta们就业，双赢】。
 
 -------------------------------------------------------------
 -------------------------------------------------------------
