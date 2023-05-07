@@ -25,7 +25,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 备注：
 
-1. 吴恩达课程终版笔记已完成3/5，如下图所示，后面的部分代码已跑通，正在填充笔记、整理排版中。
+1. 吴恩达课程终版笔记已完成3/5，如下图所示，后面的部分代码已跑通，正在填充笔记，整理排版中。
 2. Pytorch笔记、CV基本神经网络笔记已经更新完，工业项目(自动驾驶目标检测、人脸检测)正在整理中。
 
 ![401d9c30b5393d6bd68ec3a336d66e4](https://user-images.githubusercontent.com/60348867/229005624-2bda5206-0d25-44b3-a526-c0ac4e87d505.png)
@@ -45,8 +45,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：00-23】
 
 |【深度学习 学习交流②群】| 个人微信 | 
 | -------------------- | -------- | 
-| ![d873a3b53b4b74865c676d933d532ec](https://user-images.githubusercontent.com/60348867/236653733-97ea6875-aaee-4251-b722-4d1366ef8b81.jpg)
-<br/> |![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
+| ![d873a3b53b4b74865c676d933d532ec](https://user-images.githubusercontent.com/60348867/236653733-97ea6875-aaee-4251-b722-4d1366ef8b81.jpg)<br/> |![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
 
 备注：
 
