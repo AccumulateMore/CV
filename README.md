@@ -1,18 +1,18 @@
-# 最全面的 深度学习CV 笔记
-
-CV 神经网络 视频讲解【主讲人：吴恩达】【对应笔记：300-... 更新中】
-
-1. https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
-
-CV 神经网络 视频讲解【主讲人：李沐】【对应笔记：200-268】
-
-1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+# 最全面的 深度学习 笔记
 
 Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
 
-吴恩达&李沐&土堆 数据集：
+深度学习 视频讲解【主讲人：李沐】【对应笔记：200-268】
+
+1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+
+深度学习 视频讲解【主讲人：吴恩达】【对应笔记：300-354 排版中 预计七月底完结】
+
+1. https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
+
+土堆&李沐&吴恩达 数据集：
 
 1. 链接：https://pan.baidu.com/s/1UL_yiIfI1HiOOjjXLw1WSA 提取码：2z8k 
 
@@ -25,7 +25,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 备注：
 
-1. 吴恩达课程终版笔记已完成3/5，如下图所示，后面的部分代码已跑通，正在填充笔记，整理排版中【预计七月底完结】。
+1. 吴恩达课程终版笔记已完成3/5，如下图所示，后面的部分代码已跑通，正在填充笔记，整理排版中。
 2. Pytorch笔记、CV基本神经网络笔记已经更新完，工业项目(自动驾驶目标检测、人脸检测)正在整理中。
 
 ![image](https://github.com/AccumulateMore/CV/assets/60348867/7e30147c-2c8d-45ab-8cd8-8981f3bac4c3)
@@ -45,11 +45,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 |【深度学习 学习交流②群】| 个人微信 | 
 | -------------------- | -------- | 
-| ![b9783357ae5337a120eafff04e50658](https://github.com/AccumulateMore/CV/assets/60348867/95d627af-0f7f-44a1-806d-2d2119ac96b2)<br/> |![c2e5fecc221976dd0a2011ad206613a](https://github.com/AccumulateMore/CV/assets/60348867/f6673b30-b290-49e4-afc2-b13d7c053a0f)<br> | 
+| ![117381eba1f30c1c24d0bc208f8fd71](https://github.com/AccumulateMore/CV/assets/60348867/9e8b08cf-c56b-4bf8-8a59-3855e1a7ee7d)<br/> |![c2e5fecc221976dd0a2011ad206613a](https://github.com/AccumulateMore/CV/assets/60348867/f6673b30-b290-49e4-afc2-b13d7c053a0f)<br> | 
 
-备注：
-
-1. 如果申请加微信好友，请注明来源：深度学习 学习交流。
+看人之短，天下无一可交之人。看人之长，世间一切皆是吾师。
 
 -------------------------------------------------------------
 -------------------------------------------------------------
