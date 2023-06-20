@@ -45,7 +45,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 |【深度学习 学习交流②群】| 个人微信 | 
 | -------------------- | -------- | 
-| ![117381eba1f30c1c24d0bc208f8fd71](https://github.com/AccumulateMore/CV/assets/60348867/9e8b08cf-c56b-4bf8-8a59-3855e1a7ee7d)<br/> |![c2e5fecc221976dd0a2011ad206613a](https://github.com/AccumulateMore/CV/assets/60348867/f6673b30-b290-49e4-afc2-b13d7c053a0f)<br> | 
+| ![6834da8b933e4f699d581c29d48cd01](https://github.com/AccumulateMore/CV/assets/60348867/ab3a2229-7d1d-4cdf-a061-d3dc5d159d35)<br/> |![c2e5fecc221976dd0a2011ad206613a](https://github.com/AccumulateMore/CV/assets/60348867/f6673b30-b290-49e4-afc2-b13d7c053a0f)<br> | 
 
 看人之短，天下无一可交之人。看人之长，世间一切皆是吾师。
 
