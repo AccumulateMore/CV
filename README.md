@@ -45,7 +45,12 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 |【深度学习 学习交流②群】| 个人微信 | 
 | -------------------- | -------- | 
-| ![6834da8b933e4f699d581c29d48cd01](https://github.com/AccumulateMore/CV/assets/60348867/ab3a2229-7d1d-4cdf-a061-d3dc5d159d35)<br/> |![c2e5fecc221976dd0a2011ad206613a](https://github.com/AccumulateMore/CV/assets/60348867/f6673b30-b290-49e4-afc2-b13d7c053a0f)<br> | 
+| ![a6daa2305d57a3cd8da9fd2efa15228](https://github.com/AccumulateMore/CV/assets/60348867/6ccff75e-7af6-4781-8f78-efd5cebd9545)<br/> | ![94aabe52e59e9f17a4ebc474541dca4](https://github.com/AccumulateMore/CV/assets/60348867/be1674ec-e569-402c-ad1f-f39e6d506e77)<br> | 
+
+备注：
+
+1. 本人仅搭建管理群【发广告踢】，不在群内答疑，纯粹群友互相交流答疑。
+2. 如果需要咨询我，微信私信我。
 
 看人之短，天下无一可交之人。看人之长，世间一切皆是吾师。
 
@@ -56,7 +61,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 联影医疗 地点(自选)：上海、北京、深圳、武汉、广州、成都、西安、沈阳、三亚
 
-内推人：联影老员工
+内推人：联影老员工 【内推码(长期有效)：110530WYTY】
 
 岗位职责：
 
