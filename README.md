@@ -18,9 +18,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 备注：
 
-1. 在线观看笔记时，有时会出现图片或公式显示不完整，这是Github网站没有解析好，笔记下载到本地观看就可以了。不会下载笔记的，百度查一下"Github如何下载文件"。
+1. 在线观看笔记时，有时会出现图片（或公式）显示不完整，这是Github网站没有解析好，笔记下载到本地观看就正常了。不会下载笔记的，百度查一下"Github如何下载文件"。
 2. 笔记是用 Anaconda 的 Jupyter Notebook 打开的，不会打开的，百度查一下"Anaconda如何打开jupyter notebook文件"，或者我的主页Python仓库里面"00_Python编辑器"里面有写。
-3. 安装Jupyter Notebook的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。
+3. 安装 Jupyter Notebook 的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。不会安装目录的，百度查一下"jupyter notebook如何安装目录"，或者我的主页Python仓库里面"00_Python编辑器"里面有相关链接。
 
 ![image](https://github.com/AccumulateMore/CV/assets/60348867/47d53efe-8b5f-413d-ac32-f643bcac37fe)
 
@@ -46,7 +46,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 |【深度学习 学习交流②群】| 个人微信 | 
 | -------------------- | -------- | 
-| ![3b7883a19fbf78fb8cb415b38cebcc4](https://github.com/AccumulateMore/CV/assets/60348867/6124fb14-03e4-43b7-9aee-01692d5c99a2)<br/> | ![94aabe52e59e9f17a4ebc474541dca4](https://github.com/AccumulateMore/CV/assets/60348867/be1674ec-e569-402c-ad1f-f39e6d506e77)<br> | 
+| ![bdeae81b67065161afd01b4c3993c51](https://github.com/AccumulateMore/CV/assets/60348867/d69364f0-b93b-4191-bde9-b8f8b7bee7fd)<br/> | ![94aabe52e59e9f17a4ebc474541dca4](https://github.com/AccumulateMore/CV/assets/60348867/be1674ec-e569-402c-ad1f-f39e6d506e77)<br> | 
 
 看人之短，天下无一可交之人。看人之长，世间一切皆是吾师。
 
