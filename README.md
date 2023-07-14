@@ -39,14 +39,13 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 |【深度学习 学习交流②群】| 个人微信 | 
 | -------------------- | -------- | 
-| ![4c269aca77f280c96bba75c83d056f6](https://github.com/AccumulateMore/CV/assets/60348867/91d16339-4c07-4bd7-9d44-5134d67b86e5)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
+| ![c3e9543323a417d2902fb2d351b04ff](https://github.com/AccumulateMore/CV/assets/60348867/83e35b9a-b7d6-4506-aec2-f658f8a55af3)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
 
 看人之短，天下无一可交之人。看人之长，世间一切皆是吾师。
 
 备注：
 
 1. 本人仅搭建并管理群【发广告踢】，不在群内答疑，群友互相交流答疑。
-2. 如果需要咨询我，微信私信我。
 
 -------------------------------------------------------------
 -------------------------------------------------------------
