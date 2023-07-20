@@ -24,10 +24,16 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 ![image](https://github.com/AccumulateMore/CV/assets/60348867/5e3d5737-c48f-405a-8741-d57f53b427f1)
 
-补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
+补充：
+
+我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
 1. https://github.com/AccumulateMore
 
+我的知乎主页，还有其他领域的笔记，希望能帮助到你~~♥
+
+1. https://www.zhihu.com/people/bao-bei-ru-huai
+   
 "♥我的笔记，希望对你有帮助♥"
 
 ♥小声哔哔：你的star，是我更新的动力~♥
@@ -37,15 +43,13 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 搭建交流群，帮助孤单的自学者交流
 
-|【深度学习 学习交流②群】| 个人微信 | 
+|【深度学习 学习交流②群】| 微信 | 
 | -------------------- | -------- | 
-| ![c3e9543323a417d2902fb2d351b04ff](https://github.com/AccumulateMore/CV/assets/60348867/83e35b9a-b7d6-4506-aec2-f658f8a55af3)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
+| ![dcadbe1d9e443783a3b8eaaa3c92827](https://github.com/AccumulateMore/CV/assets/60348867/ff28355d-dc37-4153-bf39-a92b17a6b794)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
 
 看人之短，天下无一可交之人。看人之长，世间一切皆是吾师。
 
-备注：
-
-1. 本人仅搭建并管理群【发广告踢】，不在群内答疑，群友互相交流答疑。
+补充说明：本人仅搭建并管理群【发广告踢】，不在群内答疑，群友互相交流答疑。
 
 -------------------------------------------------------------
 -------------------------------------------------------------
