@@ -14,7 +14,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 土堆&李沐&吴恩达 数据集：
 
-1. 链接：https://pan.baidu.com/s/1-_Fh13cBRsyfJvnxrDQmAw  提取码：apnq 
+1. 链接：https://pan.baidu.com/s/1Z4_U-s917Kv6nb-GGo4-zQ 提取码：gaeo 
 
 备注：
 
@@ -45,7 +45,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 |【深度学习 学习交流②群】| 微信 | 
 | -------------------- | -------- | 
-| ![7eaaf1ecde900ac95c304c5ded9685c](https://github.com/AccumulateMore/CV/assets/60348867/401cb2e2-a5b3-4854-9c58-3027e622578a)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
+| ![2ec0cfe5993b8affe64f122374bab37](https://github.com/AccumulateMore/CV/assets/60348867/37a9b223-b46a-49b6-aced-13686f39506c)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
 
 看人之短，天下无一可交之人。看人之长，世间一切皆是吾师。
 
@@ -98,9 +98,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 ![0d1393b8583d799cd357d0da3692b91](https://github.com/AccumulateMore/CV/assets/60348867/67ce5471-0e5c-40fd-b486-76920eb45cdd)
 
-这是我三年前，研三毕业时，校招时，投简历中自我技能评价内容（现在技能树远远不止这些）。
+这是我三年前，研三毕业时，校招时，简历中技能内容（现在技能树远远不止这些）。
 
-我当时作为学生，换位思考(岗位需要的人)，用了几个技巧，分享给大家：
+用了几个技巧，分享给大家：
 
 1. 技能只写掌握了XX，没掌握不要写，掌握且更熟练的放前面，掌握但不熟练的放后面。
 2. 写掌握某项技能时，后面要论证自己真的掌握了，提供相关经历，方便面试官切入询问。
