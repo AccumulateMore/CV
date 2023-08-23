@@ -125,8 +125,8 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 提供简历指导服务，帮你们简历脱颖而出：
 
 |【收到简历】| 【收到简历】 | 【递简历】 | 
-| -------------------- | -------- | 
-| ![4a2209cdf72254348e25adbb696c423](https://github.com/AccumulateMore/CV/assets/60348867/637dfa29-36b3-41de-8cf6-54ddfb5c2dc7)<br/> | ![119280383df6827c8d65f07c77bf16c](https://github.com/AccumulateMore/CV/assets/60348867/5f0b6f37-040e-4d0d-ad62-f4e0b8ff85ce)<br> | ![b26d590fec3f44698ea6afcbe116ca0](https://github.com/AccumulateMore/CV/assets/60348867/9246707a-8993-45dc-8630-5ac177c6c74a)<br> |
+| -------- | -------- | -------- | 
+| ![4a2209cdf72254348e25adbb696c423](https://github.com/AccumulateMore/CV/assets/60348867/637dfa29-36b3-41de-8cf6-54ddfb5c2dc7)<br/> | ![119280383df6827c8d65f07c77bf16c](https://github.com/AccumulateMore/CV/assets/60348867/5f0b6f37-040e-4d0d-ad62-f4e0b8ff85ce)<br/> | ![b26d590fec3f44698ea6afcbe116ca0](https://github.com/AccumulateMore/CV/assets/60348867/9246707a-8993-45dc-8630-5ac177c6c74a)<br> |
 
 
 这些年，作为深度学习方面的面试官（收到简历），以及帮忙内推简历（递简历），见过了上千份简历，面试了上百多人，从应届生到十几年工作经验，从普通学校到哈佛硕士的简历都有见过，从中总结出一套非常完善的写简历的方法论。
