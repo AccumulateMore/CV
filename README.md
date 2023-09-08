@@ -43,9 +43,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 搭建交流群，帮助孤单的自学者交流
 
-|【深度学习 学习交流①群】| 微信 | 
-| -------------------- | -------- | 
-| ![8e171fa675984294aa1ca3724f18aaf](https://github.com/AccumulateMore/CV/assets/60348867/8026c0ba-d699-4e76-8df7-9b3ceba5e2cf)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
+| 【深度学习 学习交流①群】 | 【深度学习 学习交流②群】 | 微信 | 
+| -------------------- | -------- | -------- | 
+| ![312f346ad393a2f617f21da7ffec9d8](https://github.com/AccumulateMore/CV/assets/60348867/c99750a2-89c0-45ed-bf42-e8f63a222d60)<br/> | ![2f44c2648aaf04f393162501e9e4e0a](https://github.com/AccumulateMore/CV/assets/60348867/d6c44e7b-8349-4de3-b91b-ed62ee7c1544)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
 
 看人之短，天下无一可交之人。看人之长，世间一切皆是吾师。
 
@@ -134,7 +134,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 这些年，作为深度学习方面的面试官（收到简历），以及帮忙内推简历（递简历）。
 
-见过了上千份简历，面试了上百多人。从应届生到十几年工作经验，从普通学校到哈佛硕士的简历都有见过，因此积累了非常丰富的经验。
+见过了上千份简历，面试了上百多人。从应届生到十几年工作经验，从普通学校到哈佛硕士的都有见过，因此积累了非常丰富的经验。
 
 有提升简历质量，提高深度学习岗位匹配度需求的可以找我。
 
