@@ -60,7 +60,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 内推人：联影老员工 
 
-2024联影医疗校招内推入口：https://neitui.italent.cn/united-imaging/sharejobs?shareId=9d052226-87e4-4fb9-942b-f6f83abfb1cd
+内推入口（校招、社招）：https://neitui.italent.cn/united-imaging/sharejobs?shareId=9d052226-87e4-4fb9-942b-f6f83abfb1cd
 
 岗位职责：
 
