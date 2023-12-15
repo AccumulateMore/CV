@@ -1,14 +1,14 @@
 # 最全面的 深度学习 笔记
 
-Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
+笔记：100-122【对应方向：Pytorch】【主讲人：土堆】【视频链接：如下所示】
 
 1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
 
-深度学习 视频讲解【主讲人：李沐】【对应笔记：200-268】
+笔记：200-268【对应方向：深度学习】【主讲人：李沐】【视频链接：如下所示】
 
 1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 
-深度学习 视频讲解【主讲人：吴恩达】【对应笔记：300-354】
+笔记：300-354【对应视频：深度学习】【主讲人：吴恩达】【视频链接：如下所示】
 
 1. https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
 
