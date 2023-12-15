@@ -8,7 +8,7 @@
 
 1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 
-笔记：300-354【对应视频：深度学习】【主讲人：吴恩达】【视频链接：如下所示】
+笔记：300-354【对应方向：深度学习】【主讲人：吴恩达】【视频链接：如下所示】
 
 1. https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
 
