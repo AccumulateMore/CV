@@ -156,7 +156,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 备注：去年内推入职成功《第一名》，这仅仅只是内推入职了的，还有好多人拿到offer没有选择入职，总offer人数更多。
 
-![image](https://github.com/AccumulateMore/CV/assets/60348867/a2249bdf-9b7a-40c6-9c2b-086ec930985f)
+![e4fe726a5e6202992b9746fca5a06d0](https://github.com/AccumulateMore/CV/assets/60348867/01f7cde8-961b-45ad-a2ea-930a7d1b6e42)
 
 补充：可以针对考研简历、毕业论文提出一些问题，就当考研面试、毕业答辩那样。
 
