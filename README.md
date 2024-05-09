@@ -1,4 +1,4 @@
-# 最全面的 深度学习 笔记
+![026f74585194c6d666a2e3ca7209984](https://github.com/AccumulateMore/CV/assets/60348867/887ebc05-2e70-4316-95df-fb6d750f549a)# 最全面的 深度学习 笔记
 
 Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
@@ -158,7 +158,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 | 内推第一 | 荣誉认证 |
 | -------------------- | -------- |
-| ![Uploading e4fe726a5e6202992b9746fca5a06d0.png…]()<br/> | ![Uploading 026f74585194c6d666a2e3ca7209984.png…]()<br/> | 
+| ![e4fe726a5e6202992b9746fca5a06d0](https://github.com/AccumulateMore/CV/assets/60348867/bc0103c7-4bd1-48bd-8425-51728a239cdb)<br/> | ![026f74585194c6d666a2e3ca7209984](https://github.com/AccumulateMore/CV/assets/60348867/b79a1cde-7374-4889-84d8-f64470941c57)<br/> | 
 
 补充：可以针对考研简历、毕业论文提出一些问题，就当考研面试、毕业答辩那样。
 
