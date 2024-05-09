@@ -1,4 +1,4 @@
-![026f74585194c6d666a2e3ca7209984](https://github.com/AccumulateMore/CV/assets/60348867/887ebc05-2e70-4316-95df-fb6d750f549a)# 最全面的 深度学习 笔记
+# 最全面的 深度学习 笔记
 
 Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
