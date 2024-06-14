@@ -135,8 +135,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 商业价值介绍：道路桥梁监测和养护是交通行业的一大开销。目前基本采用人工的方式勘测和汇报。目前存在的问题是：人工提供的数据不准确，不全面，受工作人员素质影响很大；巡检耗费人力费用很高；巡检不及时；由于涉及项目经费，人工干预结果也导致财政分配不合理。为了可以及时全面精准的掌我道路的损坏程度，采用（无人机）智能巡检。
 
-| 示例图一 | 示例图二 | 
-| ![image](https://github.com/AccumulateMore/CV/assets/60348867/5425b0c1-b08f-425a-9e6e-0a9f39a60844)<br/> | ![image](https://github.com/AccumulateMore/CV/assets/60348867/0193c514-d255-412c-9698-19ee0713a8f2)<br> | 
+| 示例图一 | 示例图二 | 示例图三 | 
+| -------------------- | -------- | -------- | 
+| ![image](https://github.com/AccumulateMore/CV/assets/60348867/3bbb9b7c-b3d4-413b-b71c-566535268adb)<br/> | ![image](https://github.com/AccumulateMore/CV/assets/60348867/a9b9f8b5-b5a9-4b77-b73f-f9749074d56e)<br/> | ![image](https://github.com/AccumulateMore/CV/assets/60348867/93190a40-b88e-4b1d-bb0a-39a18e765c46)<br> | 
 
 补充：能内推简历的，也可以联系我，把岗位职责、任职要求发给我【你收公司内推奖金、ta们就业，双赢】。 
 
