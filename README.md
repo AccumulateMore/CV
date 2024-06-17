@@ -36,7 +36,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 1. https://www.zhihu.com/people/bao-bei-ru-huai
 
-我的哔哩哔哩 （未来更新商业级项目~）
+我的哔哩哔哩 （未来更新大模型、多模态~）
 
 1. https://space.bilibili.com/402601153?spm_id_from=333.788.0.0
    
