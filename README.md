@@ -40,7 +40,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 1. https://space.bilibili.com/402601153?spm_id_from=333.788.0.0
 
-我的YouTube
+我的YouTube （未来更新大模型、多模态~）
 
 1. https://www.youtube.com/channel/UCZIlItQOIGOXFo8gllpoEEg
    
@@ -152,7 +152,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 备注：隐私信息可以用张三、XXXX大学等，占位符表示。
 
-以前我毕业时，技能书写，可以借鉴
+2021年我毕业时，技能书写，可以借鉴
 
 ![UVCkSLQLig](https://github.com/AccumulateMore/CV/assets/60348867/5b13bb46-b426-4144-a5fd-340f75f668f3)
 
