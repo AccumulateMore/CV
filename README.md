@@ -44,7 +44,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 1. https://space.bilibili.com/402601153?spm_id_from=333.788.0.0
 
-【强烈推荐】绝对通俗易懂！零基础快速入门【大模型、多模态】CLIP，打通图像文字！
+【强烈推荐】零基础【大模型、多模态】快速入门！
 
 https://www.youtube.com/watch?v=SfNTqSdvoZY&ab_channel=%E5%B0%8F%E7%8E%8B%E5%90%8C%E5%AD%A6%E5%9C%A8%E7%A7%AF%E7%B4%AF
    
