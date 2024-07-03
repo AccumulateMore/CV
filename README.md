@@ -36,13 +36,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 1. https://www.zhihu.com/people/bao-bei-ru-huai
 
-我的哔哩哔哩 （前沿知识【大模型、多模态等】~）
+我的哔哩哔哩, 大模型、多模态笔记，希望能帮助到你~
 
-1. https://space.bilibili.com/402601153?spm_id_from=333.788.0.0
-
-我的YouTube （同步更新~）
-
-1. https://www.youtube.com/channel/UCZIlItQOIGOXFo8gllpoEEg
+https://www.bilibili.com/video/BV1xM4m1m7vA/?spm_id_from=333.999.0.0&vd_source=c9745e4447536b28b2b0735071d30bd6
    
 "♥我的笔记，希望对你有帮助♥"
 
