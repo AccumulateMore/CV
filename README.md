@@ -161,7 +161,7 @@ B站参考链接：https://www.bilibili.com/video/BV1Ee8veYExN/?vd_source=c9745e
 
 收徒弟，我已经指导过上千位同学，即使市场大环境不好，很多同学都入职各家公司成功了。
 
-| 内推第一名 | 微信 | 
+| 2024内推第一名 | 微信 | 
 | -------------------- | -------- |
 | ![8c0d8c19c5a6d4167d53cea1468df13](https://github.com/user-attachments/assets/98cd0338-9b42-46de-b2d7-37de44710fd2)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
 | 【深度学习 学习交流①群】 | 【深度学习 学习交流②群】 | 
