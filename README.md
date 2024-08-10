@@ -164,7 +164,9 @@ B站参考链接：https://www.bilibili.com/video/BV1Ee8veYExN/?vd_source=c9745e
 | 2024内推第一名 | 微信 | 
 | -------------------- | -------- |
 | ![8c0d8c19c5a6d4167d53cea1468df13](https://github.com/user-attachments/assets/98cd0338-9b42-46de-b2d7-37de44710fd2)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
+
 | 【深度学习 学习交流①群】 | 【深度学习 学习交流②群】 | 
+| -------------------- | -------- |
 | ![312f346ad393a2f617f21da7ffec9d8](https://github.com/AccumulateMore/CV/assets/60348867/c99750a2-89c0-45ed-bf42-e8f63a222d60)<br/> | ![2f44c2648aaf04f393162501e9e4e0a](https://github.com/AccumulateMore/CV/assets/60348867/d6c44e7b-8349-4de3-b91b-ed62ee7c1544)<br> | 
 
 搭建交流群，帮助孤单的自学者交流
