@@ -96,7 +96,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 4. 具有人工智能相关专业(计算机视觉、机器学习、医疗图像分析等)硕士及以上学位。
 5. 能熟练使用英语。
 
-另外，以下为合作的一些公司，可以帮忙内推
+另外，以下公司，可以帮忙内推，绿灯直达~
 | 支付宝 | 荣耀 | 合众汽车 | 
 | -------------------- | -------- | -------- |
 | ![image](https://github.com/user-attachments/assets/56c14028-2aa0-4634-93c4-d2e94ab6bbff)<br/> | ![6652a0b4d96cc765d4057ae3b8ffcda](https://github.com/user-attachments/assets/edc19ca7-81d6-4639-94d3-01619295bace)<br/> | ![image](https://github.com/user-attachments/assets/aa324a1b-89dd-4a7d-847c-c8f3003f4d53)<br> | 
