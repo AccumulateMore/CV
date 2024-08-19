@@ -98,7 +98,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 以下为合作的一些公司，可以帮忙内推
 | 支付宝 | 荣耀 | 合众汽车 | 
-| -------------------- | -------- | -------- | -------- | 
+| -------------------- | -------- | -------- |
 | ![image](https://github.com/user-attachments/assets/56c14028-2aa0-4634-93c4-d2e94ab6bbff)<br/> | ![image](https://github.com/user-attachments/assets/ebc96a14-e510-4ac6-836c-94b84f701b46)<br/> | ![image](https://github.com/user-attachments/assets/aa324a1b-89dd-4a7d-847c-c8f3003f4d53)<br> | 
 
 补充：
