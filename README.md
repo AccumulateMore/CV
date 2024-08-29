@@ -172,9 +172,9 @@ B站参考链接：https://www.bilibili.com/video/BV1Ee8veYExN/?vd_source=c9745e
 
 收徒弟，我已经指导过上千位同学，即使市场大环境不好，很多同学都入职各家公司成功了。
 
-| 2024内推第一名 | 
-| -------------------- | 
-| ![8c0d8c19c5a6d4167d53cea1468df13](https://github.com/user-attachments/assets/98cd0338-9b42-46de-b2d7-37de44710fd2)<br> | 
+| 金九 内推第一名 | 银十 内推第一名 | 2024内推第一名 | 
+| ------ |  ------ |  ------ | 
+| ![8405dfba26e338270a7c1b787b818a4](https://github.com/user-attachments/assets/336bd36a-8bde-4bb5-8833-02890f1afd14) | ![089a6563d9d67bd45fd9b4345239f1c](https://github.com/user-attachments/assets/6378542e-b3c6-4d5d-8b71-3034da57ef8c)<br/> | ![8c0d8c19c5a6d4167d53cea1468df13](https://github.com/user-attachments/assets/98cd0338-9b42-46de-b2d7-37de44710fd2)<br> | 
 
 成功最快的方式，就是不走弯路。自己瞎折腾几个月，几个星期就可以搞定。
 
