@@ -134,9 +134,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------- | -------- | -------- | 
 | ![image](https://github.com/user-attachments/assets/56c14028-2aa0-4634-93c4-d2e94ab6bbff)<br/> | ![6652a0b4d96cc765d4057ae3b8ffcda](https://github.com/user-attachments/assets/edc19ca7-81d6-4639-94d3-01619295bace)<br/> | ![image](https://github.com/user-attachments/assets/aa324a1b-89dd-4a7d-847c-c8f3003f4d53)<br> |  
 
-| 联发科技 | 以后更新 | 以后更新 |
-| -------- | -------- | -------- | 
-| ![image](https://github.com/user-attachments/assets/27d9f097-b5a1-4b76-b199-dc1444f8725c)<br/> |  <br/> | <br> |  
+| 联发科技 | 
+| -------- | 
+| ![image](https://github.com/user-attachments/assets/27d9f097-b5a1-4b76-b199-dc1444f8725c)<br/> | 
 
 -------------------------------------------------------------
 -------------------------------------------------------------
