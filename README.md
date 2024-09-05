@@ -128,11 +128,11 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 补充：
 
 1. 能内推简历的，也可以联系我，把岗位职责、任职要求发给我【你收公司内推奖金、ta们就业，双赢】。
-2. 另外，以下公司，可以帮忙内推，绿灯直达~
+2. 另外，以下公司，可以帮忙内推，绿灯直达，可以跟踪进度~
 
-| 支付宝 | 荣耀 | 合众汽车 | 
-| -------------------- | -------- | -------- |
-| ![image](https://github.com/user-attachments/assets/56c14028-2aa0-4634-93c4-d2e94ab6bbff)<br/> | ![6652a0b4d96cc765d4057ae3b8ffcda](https://github.com/user-attachments/assets/edc19ca7-81d6-4639-94d3-01619295bace)<br/> | ![image](https://github.com/user-attachments/assets/aa324a1b-89dd-4a7d-847c-c8f3003f4d53)<br> | 
+| 支付宝 | 荣耀 | 合众汽车 | 联发科技 | 
+| -------------------- | -------- | -------- | -------- |
+| ![image](https://github.com/user-attachments/assets/56c14028-2aa0-4634-93c4-d2e94ab6bbff)<br/> | ![6652a0b4d96cc765d4057ae3b8ffcda](https://github.com/user-attachments/assets/edc19ca7-81d6-4639-94d3-01619295bace)<br/> | ![image](https://github.com/user-attachments/assets/aa324a1b-89dd-4a7d-847c-c8f3003f4d53)<br/> |  ![image](https://github.com/user-attachments/assets/27d9f097-b5a1-4b76-b199-dc1444f8725c)<br> | 
 
 -------------------------------------------------------------
 -------------------------------------------------------------
