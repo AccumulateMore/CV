@@ -191,7 +191,8 @@ B站参考链接：https://www.bilibili.com/video/BV1Ee8veYExN/?vd_source=c9745e
 
 | 金九 内推第一名 | 银十 内推第一名 | 2024内推第一名 | 
 | ------ |  ------ |  ------ | 
-| ![8405dfba26e338270a7c1b787b818a4](https://github.com/user-attachments/assets/336bd36a-8bde-4bb5-8833-02890f1afd14) | ![089a6563d9d67bd45fd9b4345239f1c](https://github.com/user-attachments/assets/6378542e-b3c6-4d5d-8b71-3034da57ef8c)<br/> | ![8c0d8c19c5a6d4167d53cea1468df13](https://github.com/user-attachments/assets/98cd0338-9b42-46de-b2d7-37de44710fd2)<br> | 
+| ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/> | ![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)
+<br/> | ![0af5cde53809f83c4fba8044b7f69d9](https://github.com/user-attachments/assets/dd9b5b15-8597-4e49-bcfd-5a5d5ac7bb51)<br> | 
 
 个人经验：成功没有捷径，该走的路一步都不能少走，难啃的骨头都得啃下来。
 
