@@ -167,7 +167,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 螺栓螺母检测系统<br/> | 焊缝缺陷检测系统<br/> | 金属品瑕疵检测系统<br/> | 链条缺陷检测系统<br> | 
 | 条形码检测系统<br/> | 交通信号灯检测系统<br/> | 草莓成熟度检测系统<br/> | 水下海生物检测系统<br> | 
 
-B站参考链接：https://www.bilibili.com/video/BV1Ee8veYExN/?vd_source=c9745e4447536b28b2b0735071d30bd6
+https://github.com/user-attachments/assets/254a48fd-c0d3-4e5b-a612-c91bb5321a61
 
 备注：项目代码（全套：带数据集训练、带软件界面等），限时价160（吉利数），节省大量时间，祝前程似锦~ 
 
