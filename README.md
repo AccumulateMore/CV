@@ -232,6 +232,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ![60da22c22c1465e9a5770af0da2b6c4](https://github.com/user-attachments/assets/27e3fe15-d51f-463b-9fcc-f30e73e1135b)<br/> | ![d90c32911478d6e8955b6aefb642ef9](https://github.com/user-attachments/assets/765adfc8-e5ff-404f-9be2-39be5d8a4358)<br> |
 
 | 反光衣检测预警系统<br/> | 人员闯入报警系统<br> | 
+| -------------------- | -------- | 
 | ![975144e5d4f2c31d12571a086934832](https://github.com/user-attachments/assets/084d2ed5-a0de-421f-a6f0-ed1fbe67e3fa)<br/> | ![e89e87efd3f18db566daa1380c12049](https://github.com/user-attachments/assets/09d43c22-e08b-4339-b460-5edfe3613c4e)<br> |
 
 | 玉米病害检测系统<br/> | 橙子病害识别系统<br> | 
