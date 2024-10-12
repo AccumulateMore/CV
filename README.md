@@ -143,7 +143,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 | 人脸识别与管理系统<br/> | 车牌识别与管理系统<br> | 
 | -------------------- | -------- | 
-| ![de664392a21c74acb718c21546e3141](https://github.com/user-attachments/assets/c2d3ea59-ba11-48d7-baff-531b2e83472c)<br/> | ![3e8b92c02056daf10d8a74ce9853b12](https://github.com/user-attachments/assets/ff303bb6-809e-4720-bf7a-6f0d463b53b5)<br/> | 
+| ![de664392a21c74acb718c21546e3141](https://github.com/user-attachments/assets/c2d3ea59-ba11-48d7-baff-531b2e83472c)<br/> | ![3e8b92c02056daf10d8a74ce9853b12](https://github.com/user-attachments/assets/ff303bb6-809e-4720-bf7a-6f0d463b53b5)<br> | 
 
 | 手势识别系统<br/> | 人脸面部活体检测系统<br> | 
 | -------------------- | -------- | 
@@ -153,7 +153,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![7a3430d93e6ecc144ed19928af313db](https://github.com/user-attachments/assets/dc8cd57c-21e9-4463-9996-395ba2970f1b)<br/> | ![6140eb18e075fc416e08579dd2e24db](https://github.com/user-attachments/assets/0e110f03-99cb-4f3c-8d31-b9d4a3fc87f3)<br> |
 
-| 行人跌倒检测系统<br/> | PCB板缺陷检测系统<br/> | 
+| 行人跌倒检测系统<br/> | PCB板缺陷检测系统<br> | 
 | -------------------- | -------- | 
 | ![9e5ae14a4f3b1e300c8ee4814a0a693](https://github.com/user-attachments/assets/0b778f7d-505a-41ce-ab2d-0fb33beeed91)<br/> | ![ead125ee5853f455349e63991e7aea8](https://github.com/user-attachments/assets/b064aa9c-3f7b-4062-91c0-f6b0a05b3888)<br> |
 
@@ -166,7 +166,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![2e7cb1d6bc806e0b145ad2acbd24cc0](https://github.com/user-attachments/assets/50c62161-0690-452c-85b9-360b768f7364)<br/> | ![84a42d002def1270d4e0a6ed837c4b3](https://github.com/user-attachments/assets/8cc3ecb8-72ad-4f6a-833d-3569daf0082d)<br> |
 
-| 钢材表面缺陷检测系统<br/> | 102种犬类检测系统<br/> | 
+| 钢材表面缺陷检测系统<br/> | 102种犬类检测系统<br> | 
 | -------------------- | -------- | 
 | ![6bdc3b3f25987c92a3facd61e7b649a](https://github.com/user-attachments/assets/e8073419-21a9-425e-bc79-fe374b6e41be)<br/> | ![c08e79f8752543b0c45d6cbb60c64cf](https://github.com/user-attachments/assets/49e40a5b-3466-4846-bd54-d42556910669)<br> |
 
@@ -174,7 +174,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![5ebb9e98d4a2a312fe392e67f0aedcc](https://github.com/user-attachments/assets/c7b17f7e-3606-4907-966a-4720a614f602)<br/> | ![61ee2732d2c292a6f6a5aaddbb6037b](https://github.com/user-attachments/assets/fa09f88a-fc07-4fe5-b610-20aac0d87c66)<br> |
 
-| 血细胞检测计数系统<br/> | 舰船分类检测系统<br/> | 
+| 血细胞检测计数系统<br/> | 舰船分类检测系统<br> | 
 | -------------------- | -------- | 
 ![e8225d27752a02c459e864e427659b7](https://github.com/user-attachments/assets/828fefad-42b8-4b5e-8b9a-a82b8565e838)<br/> | ![c1257eb526dc73f5a970c0d39880ec6](https://github.com/user-attachments/assets/0a38620a-5d12-4e7f-b2f9-099ff14bf472)<br> |
 
@@ -182,7 +182,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![9f431425dceb6e29465ec91de14b2d0](https://github.com/user-attachments/assets/a71fb334-9de5-4e45-a8e8-8d451c98b6e0)<br/> | ![27bab4d7199b8978dee3f9c2aeafe4b](https://github.com/user-attachments/assets/bd8ed859-1e7c-4664-907e-610c3119e0d9)<br> |
 
-| 车辆行人检测系统<br/> | 小麦害虫检测系统<br/> | 
+| 车辆行人检测系统<br/> | 小麦害虫检测系统<br> | 
 | -------------------- | -------- | 
 | ![432db0ccf21c63f09a0c75d6ec76329](https://github.com/user-attachments/assets/9182fabd-ab8a-43a1-ab45-27185a0b8ebc)<br/> | ![d7145456f7f92cc98ffe6be8b9457d4](https://github.com/user-attachments/assets/37a878ef-1555-4a8c-ad99-ca42a840a610)<br> |
 
