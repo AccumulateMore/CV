@@ -141,19 +141,28 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 可以发软著（保研、拿国奖等）<br/> | 简历可以多个项目经历<br/> | 快速从0到1，节省大量时间<br> | 
 
 
-| 人脸识别与管理系统<br/> | 车牌识别与管理系统<br/> | 手势识别系统<br> |
-| -------------------- | -------- | -------- | 
-| ![de664392a21c74acb718c21546e3141](https://github.com/user-attachments/assets/c2d3ea59-ba11-48d7-baff-531b2e83472c)<br/> | ![3e8b92c02056daf10d8a74ce9853b12](https://github.com/user-attachments/assets/ff303bb6-809e-4720-bf7a-6f0d463b53b5)<br/> | ![1357f962164bdf9c9b296d6a7c2f5f0](https://github.com/user-attachments/assets/3ffa5c80-36df-480b-9b82-3ca6142a9bf2)<br/> |
+| 人脸识别与管理系统<br/> | 车牌识别与管理系统<br> | 
+| -------------------- | -------- | 
+| ![de664392a21c74acb718c21546e3141](https://github.com/user-attachments/assets/c2d3ea59-ba11-48d7-baff-531b2e83472c)<br/> | ![3e8b92c02056daf10d8a74ce9853b12](https://github.com/user-attachments/assets/ff303bb6-809e-4720-bf7a-6f0d463b53b5)<br/> | 
 
-| 人脸面部活体检测系统<br/> | 目标检测与自动标注系统<br/> | 人脸表情识别系统<br> |
-| -------------------- | -------- | -------- | 
-| ![63edeb3969a89d8c12b816ddcb41367](https://github.com/user-attachments/assets/ab288d07-6568-46df-b25b-36b4b78ab39c)<br> | ![7a3430d93e6ecc144ed19928af313db](https://github.com/user-attachments/assets/dc8cd57c-21e9-4463-9996-395ba2970f1b)<br/> | ![6140eb18e075fc416e08579dd2e24db](https://github.com/user-attachments/assets/0e110f03-99cb-4f3c-8d31-b9d4a3fc87f3)<br/> |
+| 手势识别系统<br/> | 人脸面部活体检测系统<br> | 
+| -------------------- | -------- | 
+| ![1357f962164bdf9c9b296d6a7c2f5f0](https://github.com/user-attachments/assets/3ffa5c80-36df-480b-9b82-3ca6142a9bf2)<br/> | ![63edeb3969a89d8c12b816ddcb41367](https://github.com/user-attachments/assets/ab288d07-6568-46df-b25b-36b4b78ab39c)<br> | 
 
-| 行人跌倒检测系统<br/> | PCB板缺陷检测系统<br/> | 安全帽检测系统<br> | 
+| 目标检测与自动标注系统<br/> | 人脸表情识别系统<br> |
+| -------------------- | -------- | 
+| ![7a3430d93e6ecc144ed19928af313db](https://github.com/user-attachments/assets/dc8cd57c-21e9-4463-9996-395ba2970f1b)<br/> | ![6140eb18e075fc416e08579dd2e24db](https://github.com/user-attachments/assets/0e110f03-99cb-4f3c-8d31-b9d4a3fc87f3)<br> |
 
-| ![9e5ae14a4f3b1e300c8ee4814a0a693](https://github.com/user-attachments/assets/0b778f7d-505a-41ce-ab2d-0fb33beeed91)<br/> | ![ead125ee5853f455349e63991e7aea8](https://github.com/user-attachments/assets/b064aa9c-3f7b-4062-91c0-f6b0a05b3888)<br> | ![900702f29d4db0921657caef5a857ba](https://github.com/user-attachments/assets/07c42cf5-7981-423a-9c82-20b73e061375) |
-  
-生活垃圾分类系统<br/> | 火焰烟雾检测系统<br/> | 路面坑洞检测系统<br> | 
+| 行人跌倒检测系统<br/> | PCB板缺陷检测系统<br/> | 
+| -------------------- | -------- | 
+| ![9e5ae14a4f3b1e300c8ee4814a0a693](https://github.com/user-attachments/assets/0b778f7d-505a-41ce-ab2d-0fb33beeed91)<br/> | ![ead125ee5853f455349e63991e7aea8](https://github.com/user-attachments/assets/b064aa9c-3f7b-4062-91c0-f6b0a05b3888)<br> |
+
+| 安全帽检测系统<br/> | 生活垃圾分类系统<br> |
+| -------------------- | -------- | 
+| ![900702f29d4db0921657caef5a857ba](https://github.com/user-attachments/assets/07c42cf5-7981-423a-9c82-20b73e061375)<br/> | ![8e2b08785e8a0dda2b99b63871a66c9](https://github.com/user-attachments/assets/7a8d7728-7b1e-412c-80fb-6d971a8b8035)<br> |
+
+ 
+| 火焰烟雾检测系统<br/> | 路面坑洞检测系统<br> | 
 | 钢材表面缺陷检测系统<br/> | 102种犬类检测系统<br/> | 面部口罩检测系统<br/> | 西红柿成熟度检测系统<br> | 
 | 血细胞检测计数系统<br/> | 舰船分类检测系统<br/> | 吸烟行为检测系统<br/> | 水稻害虫检测系统<br> | 
 | 车辆行人检测系统<br/> | 小麦害虫检测系统<br/> | 玉米害虫检测系统<br/> | 200种鸟类检测系统<br> | 
