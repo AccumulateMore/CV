@@ -251,25 +251,26 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![128a3c2422b76bb6226e2ceac743019](https://github.com/user-attachments/assets/507e2e3f-31b8-4ce0-b89a-5665fe6597a5)<br/> | ![cc6e39d0a6cc87b70bd82c0bee2b08b](https://github.com/user-attachments/assets/d78ea061-4ab4-46c7-862b-dba06a24183e)<br> |
 
-
-
-| 项目列表 | 项目列表 |
-| -------------------- | -------- | 
-| 苹果病害识别系统<br/> | 复杂环境船舶检测系统<br> |
-| 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
-| 102种花卉识别系统<br/> | 100种蝴蝶识别系统<br> | 
-| 车辆行人追踪系统<br/> | 水稻病害识别系统<br> | 
 | 车牌检测识别系统<br/> | 草莓病害检测分割系统<br> |
+| -------------------- | -------- | 
+| ![3d9f708bbdcb15cac67d88a83d655f1](https://github.com/user-attachments/assets/043bb659-03ac-44a9-83df-794a31256a58)<br/> ![55236f93b11cba6bc417f19ac4fcbb9](https://github.com/user-attachments/assets/f06dfaf2-54fc-4433-ac81-0fa31d7d0f1b)<br> |
 
+| 车辆行人追踪系统<br/> | 水稻病害识别系统<br> | 
+| -------------------- | -------- | 
+| ![2f79cd0cd46dfb259aff5904048ce8d](https://github.com/user-attachments/assets/038b30ee-d12b-4dcc-9561-e5cb3ef2b3b7)<br/> | ![bfa6ce94e1fd1ae693e87efd538f5b2](https://github.com/user-attachments/assets/b3c6c3ed-9070-4329-ad58-98d5c9f0ee7e)<br> |
 
-https://github.com/user-attachments/assets/254a48fd-c0d3-4e5b-a612-c91bb5321a61
+| 102种花卉识别系统<br/> | 100种蝴蝶识别系统<br> | 
+| -------------------- | -------- | 
+| ![aad19fc710fcc9f70f436f880e1c159](https://github.com/user-attachments/assets/57030e97-fc31-4d8c-ba98-8fe068ea94c1)<br/> | ![a4485239c0742d179f99da50f0d707f](https://github.com/user-attachments/assets/08db7e08-4d54-4dfa-805e-4e25324f1d3f)<br> |
+
+| 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
+| ![3c34c35818313b57f2b92c1dcd244d1](https://github.com/user-attachments/assets/eff2b3a3-4aac-4065-8fe5-5f5dec6537ee)<br/> | ![6fdbe2639276e253d6fee5668921292](https://github.com/user-attachments/assets/f6edff6a-44f8-4c1b-84ee-5bdf387b4fdd)<br> |
+
+| 苹果病害识别系统<br/> | 复杂环境船舶检测系统<br> |
+
+| ![e6b5c5085bed1f88a180363f800f6ca](https://github.com/user-attachments/assets/fefb739c-94fb-46fc-991b-867c31462a14)<br/> | ![image](https://github.com/user-attachments/assets/961c7e81-5d6b-4a8c-b74d-ee95a2abe3f2)<br> |
 
 备注：项目代码（全套：带数据集训练、带软件界面等），限时价160/个（吉利数），节省大量时间，祝前程似锦~ 
-
-补充说明：
-
-1. 前1000单是限时价，后1000单恢复原价1600，过期即恢复原价。
-2. 想做赚钱的，也可以联系我【招学校代理，带赚钱】，学校期间财富自由。
 
 -------------------------------------------------------------
 -------------------------------------------------------------
