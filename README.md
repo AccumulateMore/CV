@@ -210,6 +210,15 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![f013eef0ec9880fff66f99d3547ab48](https://github.com/user-attachments/assets/9d99f2a9-0201-435c-9df1-1044705fe303)<br/> | ![7f09e2551c35bec102bd8ac510f52a1](https://github.com/user-attachments/assets/b3a0de5a-129e-44bb-9680-f4f886aa029a)<br> |
 
+| 金属品瑕疵检测系统<br/> | 链条缺陷检测系统<br> | 
+| -------------------- | -------- | 
+| ![7e88969fcc2443dff32dfb34c1d320e](https://github.com/user-attachments/assets/013058dc-df4e-4ace-aab2-103f511f5672)<br/> | ![0679077ff9a1b6bd29adbb01f93f833](https://github.com/user-attachments/assets/f07ef2a2-62d6-4b14-9cf6-d55f7c82ef15)<br> |
+
+
+| 螺栓螺母检测系统<br/> | 焊缝缺陷检测系统<br> |
+| -------------------- | -------- | 
+| ![b7d0faddf8c88de8dd0c47a33c393c4](https://github.com/user-attachments/assets/b722e349-5b9e-42df-8669-deca6967844e)<br/> | ![0e72dad90911f10199322d6d90b577b](https://github.com/user-attachments/assets/6e8d14e2-142d-40e7-ac07-6f443da19f35)<br> |
+
 
 
 | 项目列表 | 项目列表 |
@@ -227,8 +236,8 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 高密度人脸检测系统<br/> | 肾结石检测系统<br> | 
 | 水果检测识别系统<br/> | 蔬菜检测系统<br> |
 | 水果质量检测系统<br/> | 非机动车头盔检测系统<br> | 
-| 螺栓螺母检测系统<br/> | 焊缝缺陷检测系统<br> |
-| 金属品瑕疵检测系统<br/> | 链条缺陷检测系统<br> | 
+
+
 
 
 
