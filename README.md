@@ -174,20 +174,46 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![5ebb9e98d4a2a312fe392e67f0aedcc](https://github.com/user-attachments/assets/c7b17f7e-3606-4907-966a-4720a614f602)<br/> | ![61ee2732d2c292a6f6a5aaddbb6037b](https://github.com/user-attachments/assets/fa09f88a-fc07-4fe5-b610-20aac0d87c66)<br> |
 
+| 血细胞检测计数系统<br/> | 舰船分类检测系统<br/> | 
+| -------------------- | -------- | 
+![e8225d27752a02c459e864e427659b7](https://github.com/user-attachments/assets/828fefad-42b8-4b5e-8b9a-a82b8565e838)<br/> | ![c1257eb526dc73f5a970c0d39880ec6](https://github.com/user-attachments/assets/0a38620a-5d12-4e7f-b2f9-099ff14bf472)<br> |
+
+| 吸烟行为检测系统<br/> | 水稻害虫检测系统<br> | 
+| -------------------- | -------- | 
+| ![9f431425dceb6e29465ec91de14b2d0](https://github.com/user-attachments/assets/a71fb334-9de5-4e45-a8e8-8d451c98b6e0)<br/> | ![27bab4d7199b8978dee3f9c2aeafe4b](https://github.com/user-attachments/assets/bd8ed859-1e7c-4664-907e-610c3119e0d9)<br> |
+
+| 车辆行人检测系统<br/> | 小麦害虫检测系统<br/> | 
+| -------------------- | -------- | 
+| ![432db0ccf21c63f09a0c75d6ec76329](https://github.com/user-attachments/assets/9182fabd-ab8a-43a1-ab45-27185a0b8ebc)<br/> | ![d7145456f7f92cc98ffe6be8b9457d4](https://github.com/user-attachments/assets/37a878ef-1555-4a8c-ad99-ca42a840a610)<br> |
+
+| 玉米害虫检测系统<br/> | 200种鸟类检测系统<br> | 
+| -------------------- | -------- | 
+| ![ae497d970d77c10ae6fa282f4adbd29](https://github.com/user-attachments/assets/5e056d04-be7b-4687-9970-380d7c77d29b)<br/> | ![674bb9bf0c9f7d2379d8f35fd9cf1c2](https://github.com/user-attachments/assets/a0dfddb6-10ad-4340-be5d-331c7a466286)<br> |
+
+| 交通标志检测系统<br/> | 苹果病害识别系统<br/> |
+| -------------------- | -------- | 
+| ![10967feb511c811041d0af6958b2f53](https://github.com/user-attachments/assets/8044f511-1eeb-4c0b-8db0-8ce0d4cc4931)<br/> | ![e6b5c5085bed1f88a180363f800f6ca](https://github.com/user-attachments/assets/e4eb9bd5-9e5e-4683-a5a0-807a3535501d)<br> |
 
 
-| 血细胞检测计数系统<br/> | 舰船分类检测系统<br/> | 吸烟行为检测系统<br/> | 水稻害虫检测系统<br> | 
-| 车辆行人检测系统<br/> | 小麦害虫检测系统<br/> | 玉米害虫检测系统<br/> | 200种鸟类检测系统<br> | 
-| 交通标志检测系统<br/> | 苹果病害识别系统<br/> | 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
-| 102种花卉识别系统<br/> | 100种蝴蝶识别系统<br/> | 车辆行人追踪系统<br/> | 水稻病害识别系统<br> | 
-| 车牌检测识别系统<br/> | 草莓病害检测分割系统<br/> | 复杂环境船舶检测系统<br/> | 裂缝检测分析系统<br> | 
-| 田间杂草检测系统<br/> | 葡萄病害识别系统<br/> | 路面坑洞检测分割系统<br/> | 遥感地面物体检测系统<br> | 
-| 无人机视角检测系统<br/> | 木薯病害识别预防系统<br/> | 野火烟雾检测系统<br/> | 脑肿瘤检测系统<br> | 
-| 玉米病害检测系统<br/> | 橙子病害识别系统<br/> | 车辆追踪计数系统<br/> | 行人追踪计数系统<br> | 
-| 反光衣检测预警系统<br/> | 人员闯入报警系统<br/> | 高密度人脸检测系统<br/> | 肾结石检测系统<br> | 
-| 水果检测识别系统<br/> | 蔬菜检测系统<br/> | 水果质量检测系统<br/> | 非机动车头盔检测系统<br> | 
-| 螺栓螺母检测系统<br/> | 焊缝缺陷检测系统<br/> | 金属品瑕疵检测系统<br/> | 链条缺陷检测系统<br> | 
-| 条形码检测系统<br/> | 交通信号灯检测系统<br/> | 草莓成熟度检测系统<br/> | 水下海生物检测系统<br> | 
+| 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
+| 102种花卉识别系统<br/> | 100种蝴蝶识别系统<br/> | 
+| 车辆行人追踪系统<br/> | 水稻病害识别系统<br> | 
+| 车牌检测识别系统<br/> | 草莓病害检测分割系统<br/> |
+| 复杂环境船舶检测系统<br/> | 裂缝检测分析系统<br> | 
+| 田间杂草检测系统<br/> | 葡萄病害识别系统<br/> | 
+| 路面坑洞检测分割系统<br/> | 遥感地面物体检测系统<br> | 
+| 无人机视角检测系统<br/> | 木薯病害识别预防系统<br/> | 
+| 野火烟雾检测系统<br/> | 脑肿瘤检测系统<br> | 
+| 玉米病害检测系统<br/> | 橙子病害识别系统<br/> | 
+| 车辆追踪计数系统<br/> | 行人追踪计数系统<br> | 
+| 反光衣检测预警系统<br/> | 人员闯入报警系统<br/> | 
+| 高密度人脸检测系统<br/> | 肾结石检测系统<br> | 
+| 水果检测识别系统<br/> | 蔬菜检测系统<br/> |
+| 水果质量检测系统<br/> | 非机动车头盔检测系统<br> | 
+| 螺栓螺母检测系统<br/> | 焊缝缺陷检测系统<br/> |
+| 金属品瑕疵检测系统<br/> | 链条缺陷检测系统<br> | 
+| 条形码检测系统<br/> | 交通信号灯检测系统<br/> | 
+| 草莓成熟度检测系统<br/> | 水下海生物检测系统<br> | 
 
 https://github.com/user-attachments/assets/254a48fd-c0d3-4e5b-a612-c91bb5321a61
 
