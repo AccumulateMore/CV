@@ -202,7 +202,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![7fbda4d5dff310bdb7057d009257bc9](https://github.com/user-attachments/assets/1ed194c1-407e-4772-a070-a8000eb7eae8)<br/> | ![dfece8542a6aefbce534c43a771758d](https://github.com/user-attachments/assets/cdfa1f99-d7a1-43ef-8878-019db3a6e80c)<br> |
 
-| 水下海生物检测系统<br/> | | 草莓成熟度检测系统<br> | 
+| 水下海生物检测系统<br/> | 草莓成熟度检测系统<br> | 
 | -------------------- | -------- | 
 | ![27286b5ca0625ec946ccbc7ec9b887e](https://github.com/user-attachments/assets/99f1ed25-8f84-4e29-9cc5-371dc8e198e0)<br/> | ![79d2065c7ab4097e0ac54455af25545](https://github.com/user-attachments/assets/dfa6aed8-3fde-4472-8e4a-13fbb974d8ef)<br> |
 
