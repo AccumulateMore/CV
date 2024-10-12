@@ -248,6 +248,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ![3e08747e8f57a91d04e077017f8ca22](https://github.com/user-attachments/assets/8dd07b9b-e430-4915-acf5-a3aa81eb8360)<br/> | ![28166493d56b90754f111423124b261](https://github.com/user-attachments/assets/d03e8ca1-1ee5-4057-8204-0d1e5783404f)<br> |
 
 | 田间杂草检测系统<br/> | 葡萄病害识别系统<br> | 
+| -------------------- | -------- | 
 | ![128a3c2422b76bb6226e2ceac743019](https://github.com/user-attachments/assets/507e2e3f-31b8-4ce0-b89a-5665fe6597a5)<br/> | ![cc6e39d0a6cc87b70bd82c0bee2b08b](https://github.com/user-attachments/assets/d78ea061-4ab4-46c7-862b-dba06a24183e)<br> |
 
 
