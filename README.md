@@ -239,6 +239,19 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![71ec083fbe77ddc9291f11d2486dc41](https://github.com/user-attachments/assets/c76303cc-74cc-48c6-b32f-c0d778298734)<br/> | ![a69aecb79640eba303ff90e6da722d9](https://github.com/user-attachments/assets/50bd923c-b1f5-428d-848e-88c5cdf31cc8)<br> |
 
+| 木薯病害识别预防系统<br/> | 野火烟雾检测系统<br> | 
+| -------------------- | -------- | 
+| ![712a34e65c5bf2294c68c84a235524e](https://github.com/user-attachments/assets/3154ae2b-d9de-4a82-9c89-939d64255ac3)<br/> | ![03357b2fa116ebe031f59438ac2390c](https://github.com/user-attachments/assets/1ec78bf2-7941-461a-90ec-ac6aef39e0f6)<br> |
+
+| 路面坑洞检测分割系统<br/> | 遥感地面物体检测系统<br> | 
+| -------------------- | -------- | 
+| ![3e08747e8f57a91d04e077017f8ca22](https://github.com/user-attachments/assets/8dd07b9b-e430-4915-acf5-a3aa81eb8360)<br/> | ![28166493d56b90754f111423124b261](https://github.com/user-attachments/assets/d03e8ca1-1ee5-4057-8204-0d1e5783404f)<br> |
+
+| 田间杂草检测系统<br/> | 葡萄病害识别系统<br> | 
+| ![128a3c2422b76bb6226e2ceac743019](https://github.com/user-attachments/assets/507e2e3f-31b8-4ce0-b89a-5665fe6597a5)<br/> | ![cc6e39d0a6cc87b70bd82c0bee2b08b](https://github.com/user-attachments/assets/d78ea061-4ab4-46c7-862b-dba06a24183e)<br> |
+
+
+
 | 项目列表 | 项目列表 |
 | -------------------- | -------- | 
 | 苹果病害识别系统<br/> | 复杂环境船舶检测系统<br> |
@@ -246,9 +259,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 102种花卉识别系统<br/> | 100种蝴蝶识别系统<br> | 
 | 车辆行人追踪系统<br/> | 水稻病害识别系统<br> | 
 | 车牌检测识别系统<br/> | 草莓病害检测分割系统<br> |
-| 田间杂草检测系统<br/> | 葡萄病害识别系统<br> | 
-| 路面坑洞检测分割系统<br/> | 遥感地面物体检测系统<br> | 
-| 木薯病害识别预防系统<br/> | 野火烟雾检测系统<br> | 
+
 
 https://github.com/user-attachments/assets/254a48fd-c0d3-4e5b-a612-c91bb5321a61
 
