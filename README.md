@@ -202,6 +202,15 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![7fbda4d5dff310bdb7057d009257bc9](https://github.com/user-attachments/assets/1ed194c1-407e-4772-a070-a8000eb7eae8)<br/> | ![dfece8542a6aefbce534c43a771758d](https://github.com/user-attachments/assets/cdfa1f99-d7a1-43ef-8878-019db3a6e80c)<br> |
 
+| 水下海生物检测系统<br/> | | 草莓成熟度检测系统<br> | 
+| -------------------- | -------- | 
+| ![27286b5ca0625ec946ccbc7ec9b887e](https://github.com/user-attachments/assets/99f1ed25-8f84-4e29-9cc5-371dc8e198e0)<br/> | ![79d2065c7ab4097e0ac54455af25545](https://github.com/user-attachments/assets/dfa6aed8-3fde-4472-8e4a-13fbb974d8ef)<br> |
+
+| 条形码检测系统<br/> | 交通信号灯检测系统<br> | 
+| -------------------- | -------- | 
+| ![f013eef0ec9880fff66f99d3547ab48](https://github.com/user-attachments/assets/9d99f2a9-0201-435c-9df1-1044705fe303)<br/> | ![7f09e2551c35bec102bd8ac510f52a1](https://github.com/user-attachments/assets/b3a0de5a-129e-44bb-9680-f4f886aa029a)<br> |
+
+
 
 | 项目列表 | 项目列表 |
 | -------------------- | -------- | 
@@ -220,8 +229,8 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 水果质量检测系统<br/> | 非机动车头盔检测系统<br> | 
 | 螺栓螺母检测系统<br/> | 焊缝缺陷检测系统<br> |
 | 金属品瑕疵检测系统<br/> | 链条缺陷检测系统<br> | 
-| 条形码检测系统<br/> | 交通信号灯检测系统<br> | 
-| 草莓成熟度检测系统<br/> | 水下海生物检测系统<br> | 
+
+
 
 https://github.com/user-attachments/assets/254a48fd-c0d3-4e5b-a612-c91bb5321a61
 
