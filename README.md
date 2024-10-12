@@ -219,6 +219,18 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![b7d0faddf8c88de8dd0c47a33c393c4](https://github.com/user-attachments/assets/b722e349-5b9e-42df-8669-deca6967844e)<br/> | ![0e72dad90911f10199322d6d90b577b](https://github.com/user-attachments/assets/6e8d14e2-142d-40e7-ac07-6f443da19f35)<br> |
 
+| 水果质量检测系统<br/> | 非机动车头盔检测系统<br> | 
+| -------------------- | -------- | 
+| ![b4902deba7915a85c6ea882793af1b1](https://github.com/user-attachments/assets/c5dbad29-e4cd-4e34-957a-2637d370dfe7)<br/> | ![a6de1aefc96dc804d8a25011864cfd5](https://github.com/user-attachments/assets/fd1b272c-365d-4878-b3ee-cbd9d53280be)<br> |
+
+| 水果检测识别系统<br/> | 蔬菜检测系统<br> |
+| -------------------- | -------- | 
+| ![ec4f8562b6ac84ba9a7eb07d1e8f3fb](https://github.com/user-attachments/assets/f23ddd0c-74f6-4f64-a49d-d79a0a8936e7)<br/> | ![b5f1c8d7ab8bc0815f43b5109443a04](https://github.com/user-attachments/assets/ef66fc46-4a42-42b7-a3d9-0bebd5039d4a)<br> |
+
+| 高密度人脸检测系统<br/> | 肾结石检测系统<br> | 
+| -------------------- | -------- | 
+| ![60da22c22c1465e9a5770af0da2b6c4](https://github.com/user-attachments/assets/27e3fe15-d51f-463b-9fcc-f30e73e1135b)<br/> | ![d90c32911478d6e8955b6aefb642ef9](https://github.com/user-attachments/assets/765adfc8-e5ff-404f-9be2-39be5d8a4358)<br> |
+
 
 
 | 项目列表 | 项目列表 |
@@ -233,12 +245,6 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 木薯病害识别预防系统<br/> | 野火烟雾检测系统<br> | 
 | 玉米病害检测系统<br/> | 橙子病害识别系统<br> | 
 | 反光衣检测预警系统<br/> | 人员闯入报警系统<br> | 
-| 高密度人脸检测系统<br/> | 肾结石检测系统<br> | 
-| 水果检测识别系统<br/> | 蔬菜检测系统<br> |
-| 水果质量检测系统<br/> | 非机动车头盔检测系统<br> | 
-
-
-
 
 
 https://github.com/user-attachments/assets/254a48fd-c0d3-4e5b-a612-c91bb5321a61
