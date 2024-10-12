@@ -214,7 +214,6 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![7e88969fcc2443dff32dfb34c1d320e](https://github.com/user-attachments/assets/013058dc-df4e-4ace-aab2-103f511f5672)<br/> | ![0679077ff9a1b6bd29adbb01f93f833](https://github.com/user-attachments/assets/f07ef2a2-62d6-4b14-9cf6-d55f7c82ef15)<br> |
 
-
 | 螺栓螺母检测系统<br/> | 焊缝缺陷检测系统<br> |
 | -------------------- | -------- | 
 | ![b7d0faddf8c88de8dd0c47a33c393c4](https://github.com/user-attachments/assets/b722e349-5b9e-42df-8669-deca6967844e)<br/> | ![0e72dad90911f10199322d6d90b577b](https://github.com/user-attachments/assets/6e8d14e2-142d-40e7-ac07-6f443da19f35)<br> |
@@ -239,9 +238,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![71ec083fbe77ddc9291f11d2486dc41](https://github.com/user-attachments/assets/c76303cc-74cc-48c6-b32f-c0d778298734)<br/> | ![a69aecb79640eba303ff90e6da722d9](https://github.com/user-attachments/assets/50bd923c-b1f5-428d-848e-88c5cdf31cc8)<br> |
 
-| 复杂环境船舶检测系统<br/> | 野火烟雾检测系统<br> | 
+| 木薯病害识别预防系统<br/> | 野火烟雾检测系统<br> | 
 | -------------------- | -------- | 
-| ![image](https://github.com/user-attachments/assets/961c7e81-5d6b-4a8c-b74d-ee95a2abe3f2)<br/> | ![03357b2fa116ebe031f59438ac2390c](https://github.com/user-attachments/assets/1ec78bf2-7941-461a-90ec-ac6aef39e0f6)<br> |
+| ![c87f5b50f560617f4d26c1d54dda338](https://github.com/user-attachments/assets/3d2d47a5-1ad1-455b-a917-14b0e271b973)<br/> | ![03357b2fa116ebe031f59438ac2390c](https://github.com/user-attachments/assets/1ec78bf2-7941-461a-90ec-ac6aef39e0f6)<br> |
 
 | 路面坑洞检测分割系统<br/> | 遥感地面物体检测系统<br> | 
 | -------------------- | -------- | 
