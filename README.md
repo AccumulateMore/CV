@@ -190,12 +190,11 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![ae497d970d77c10ae6fa282f4adbd29](https://github.com/user-attachments/assets/5e056d04-be7b-4687-9970-380d7c77d29b)<br/> | ![674bb9bf0c9f7d2379d8f35fd9cf1c2](https://github.com/user-attachments/assets/a0dfddb6-10ad-4340-be5d-331c7a466286)<br> |
 
-| 交通标志检测系统<br/> | 苹果病害识别系统<br/> |
-| -------------------- | -------- | 
-| ![02fb29f0decbf62aefd3c5904068a89](https://github.com/user-attachments/assets/558a5f39-50d9-48e1-b503-c410d4b322fb)<br/> | ![e6b5c5085bed1f88a180363f800f6ca](https://github.com/user-attachments/assets/e4eb9bd5-9e5e-4683-a5a0-807a3535501d)<br> |
+
 
 | 项目列表 | 项目列表 |
 | -------------------- | -------- | 
+| 交通标志检测系统<br/> | 苹果病害识别系统<br> |
 | 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
 | 102种花卉识别系统<br/> | 100种蝴蝶识别系统<br> | 
 | 车辆行人追踪系统<br/> | 水稻病害识别系统<br> | 
