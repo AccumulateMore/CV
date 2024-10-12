@@ -264,10 +264,11 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ![aad19fc710fcc9f70f436f880e1c159](https://github.com/user-attachments/assets/57030e97-fc31-4d8c-ba98-8fe068ea94c1)<br/> | ![a4485239c0742d179f99da50f0d707f](https://github.com/user-attachments/assets/08db7e08-4d54-4dfa-805e-4e25324f1d3f)<br> |
 
 | 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
+| -------------------- | -------- | 
 | ![3c34c35818313b57f2b92c1dcd244d1](https://github.com/user-attachments/assets/eff2b3a3-4aac-4065-8fe5-5f5dec6537ee)<br/> | ![6fdbe2639276e253d6fee5668921292](https://github.com/user-attachments/assets/f6edff6a-44f8-4c1b-84ee-5bdf387b4fdd)<br> |
 
 | 苹果病害识别系统<br/> | 复杂环境船舶检测系统<br> |
-
+| -------------------- | -------- | 
 | ![e6b5c5085bed1f88a180363f800f6ca](https://github.com/user-attachments/assets/fefb739c-94fb-46fc-991b-867c31462a14)<br/> | ![image](https://github.com/user-attachments/assets/961c7e81-5d6b-4a8c-b74d-ee95a2abe3f2)<br> |
 
 备注：项目代码（全套：带数据集训练、带软件界面等），限时价160/个（吉利数），节省大量时间，祝前程似锦~ 
