@@ -163,7 +163,19 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
  
 | 火焰烟雾检测系统<br/> | 路面坑洞检测系统<br> | 
-| 钢材表面缺陷检测系统<br/> | 102种犬类检测系统<br/> | 面部口罩检测系统<br/> | 西红柿成熟度检测系统<br> | 
+| -------------------- | -------- | 
+| ![2e7cb1d6bc806e0b145ad2acbd24cc0](https://github.com/user-attachments/assets/50c62161-0690-452c-85b9-360b768f7364)<br/> | ![84a42d002def1270d4e0a6ed837c4b3](https://github.com/user-attachments/assets/8cc3ecb8-72ad-4f6a-833d-3569daf0082d)<br> |
+
+| 钢材表面缺陷检测系统<br/> | 102种犬类检测系统<br/> | 
+| -------------------- | -------- | 
+| ![6bdc3b3f25987c92a3facd61e7b649a](https://github.com/user-attachments/assets/e8073419-21a9-425e-bc79-fe374b6e41be)<br/> | ![c08e79f8752543b0c45d6cbb60c64cf](https://github.com/user-attachments/assets/49e40a5b-3466-4846-bd54-d42556910669)<br> |
+
+| 面部口罩检测系统<br/> | 西红柿成熟度检测系统<br> | 
+| -------------------- | -------- | 
+| ![5ebb9e98d4a2a312fe392e67f0aedcc](https://github.com/user-attachments/assets/c7b17f7e-3606-4907-966a-4720a614f602)<br/> | ![61ee2732d2c292a6f6a5aaddbb6037b](https://github.com/user-attachments/assets/fa09f88a-fc07-4fe5-b610-20aac0d87c66)<br> |
+
+
+
 | 血细胞检测计数系统<br/> | 舰船分类检测系统<br/> | 吸烟行为检测系统<br/> | 水稻害虫检测系统<br> | 
 | 车辆行人检测系统<br/> | 小麦害虫检测系统<br/> | 玉米害虫检测系统<br/> | 200种鸟类检测系统<br> | 
 | 交通标志检测系统<br/> | 苹果病害识别系统<br/> | 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
