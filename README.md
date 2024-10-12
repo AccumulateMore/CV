@@ -239,9 +239,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![71ec083fbe77ddc9291f11d2486dc41](https://github.com/user-attachments/assets/c76303cc-74cc-48c6-b32f-c0d778298734)<br/> | ![a69aecb79640eba303ff90e6da722d9](https://github.com/user-attachments/assets/50bd923c-b1f5-428d-848e-88c5cdf31cc8)<br> |
 
-| 木薯病害识别预防系统<br/> | 野火烟雾检测系统<br> | 
+| 复杂环境船舶检测系统<br/> | 野火烟雾检测系统<br> | 
 | -------------------- | -------- | 
-| ![712a34e65c5bf2294c68c84a235524e](https://github.com/user-attachments/assets/3154ae2b-d9de-4a82-9c89-939d64255ac3)<br/> | ![03357b2fa116ebe031f59438ac2390c](https://github.com/user-attachments/assets/1ec78bf2-7941-461a-90ec-ac6aef39e0f6)<br> |
+| ![image](https://github.com/user-attachments/assets/961c7e81-5d6b-4a8c-b74d-ee95a2abe3f2)<br/> | ![03357b2fa116ebe031f59438ac2390c](https://github.com/user-attachments/assets/1ec78bf2-7941-461a-90ec-ac6aef39e0f6)<br> |
 
 | 路面坑洞检测分割系统<br/> | 遥感地面物体检测系统<br> | 
 | -------------------- | -------- | 
@@ -253,7 +253,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 | 车牌检测识别系统<br/> | 草莓病害检测分割系统<br> |
 | -------------------- | -------- | 
-| ![3d9f708bbdcb15cac67d88a83d655f1](https://github.com/user-attachments/assets/043bb659-03ac-44a9-83df-794a31256a58)<br/> ![55236f93b11cba6bc417f19ac4fcbb9](https://github.com/user-attachments/assets/f06dfaf2-54fc-4433-ac81-0fa31d7d0f1b)<br> |
+| ![3d9f708bbdcb15cac67d88a83d655f1](https://github.com/user-attachments/assets/043bb659-03ac-44a9-83df-794a31256a58)<br/> | ![55236f93b11cba6bc417f19ac4fcbb9](https://github.com/user-attachments/assets/f06dfaf2-54fc-4433-ac81-0fa31d7d0f1b)<br> |
 
 | 车辆行人追踪系统<br/> | 水稻病害识别系统<br> | 
 | -------------------- | -------- | 
@@ -266,10 +266,6 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
 | -------------------- | -------- | 
 | ![3c34c35818313b57f2b92c1dcd244d1](https://github.com/user-attachments/assets/eff2b3a3-4aac-4065-8fe5-5f5dec6537ee)<br/> | ![6fdbe2639276e253d6fee5668921292](https://github.com/user-attachments/assets/f6edff6a-44f8-4c1b-84ee-5bdf387b4fdd)<br> |
-
-| 苹果病害识别系统<br/> | 复杂环境船舶检测系统<br> |
-| -------------------- | -------- | 
-| ![e6b5c5085bed1f88a180363f800f6ca](https://github.com/user-attachments/assets/fefb739c-94fb-46fc-991b-867c31462a14)<br/> | ![image](https://github.com/user-attachments/assets/961c7e81-5d6b-4a8c-b74d-ee95a2abe3f2)<br> |
 
 备注：项目代码（全套：带数据集训练、带软件界面等），限时价160/个（吉利数），节省大量时间，祝前程似锦~ 
 
