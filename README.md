@@ -190,22 +190,31 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![ae497d970d77c10ae6fa282f4adbd29](https://github.com/user-attachments/assets/5e056d04-be7b-4687-9970-380d7c77d29b)<br/> | ![674bb9bf0c9f7d2379d8f35fd9cf1c2](https://github.com/user-attachments/assets/a0dfddb6-10ad-4340-be5d-331c7a466286)<br> |
 
+| 交通标志检测系统<br/> |行人追踪计数系统<br> | 
+| -------------------- | -------- | 
+| ![619c75bab7ab453dc629989354ba3a7](https://github.com/user-attachments/assets/dad1fef2-0f8a-49bb-a9d3-ff3fccdc4a8e)<br/> | ![d93963a0dded52d3d2590afe39ffe89](https://github.com/user-attachments/assets/53950378-017a-47df-b23e-141d623f815e)<br> |
+
+| 车辆追踪计数系统<br/> | 脑肿瘤检测系统<br> | 
+| -------------------- | -------- | 
+| ![4495c7a2836e834c37a374209a431fe](https://github.com/user-attachments/assets/28d57412-7fbe-47bb-bf9d-1d48f3260e9d)<br/> | ![f113d31849f2ec5ad14e846bb994760](https://github.com/user-attachments/assets/53c7e955-591a-4be0-a65a-21d95fa42fcb)<br> |
+
+| 无人机视角检测系统<br/> | 裂缝检测分析系统<br> | 
+| ![7fbda4d5dff310bdb7057d009257bc9](https://github.com/user-attachments/assets/1ed194c1-407e-4772-a070-a8000eb7eae8)<br/> | ![dfece8542a6aefbce534c43a771758d](https://github.com/user-attachments/assets/cdfa1f99-d7a1-43ef-8878-019db3a6e80c)<br> |
 
 
 | 项目列表 | 项目列表 |
 | -------------------- | -------- | 
-| 交通标志检测系统<br/> | 苹果病害识别系统<br> |
+| 苹果病害识别系统<br> | | 复杂环境船舶检测系统<br> |
 | 肺炎诊断系统<br/> | 100种中草药识别系统<br> | 
 | 102种花卉识别系统<br/> | 100种蝴蝶识别系统<br> | 
 | 车辆行人追踪系统<br/> | 水稻病害识别系统<br> | 
 | 车牌检测识别系统<br/> | 草莓病害检测分割系统<br> |
-| 复杂环境船舶检测系统<br/> | 裂缝检测分析系统<br> | 
+
 | 田间杂草检测系统<br/> | 葡萄病害识别系统<br> | 
 | 路面坑洞检测分割系统<br/> | 遥感地面物体检测系统<br> | 
-| 无人机视角检测系统<br/> | 木薯病害识别预防系统<br> | 
-| 野火烟雾检测系统<br/> | 脑肿瘤检测系统<br> | 
+| 木薯病害识别预防系统<br> | 野火烟雾检测系统<br/> | 
 | 玉米病害检测系统<br/> | 橙子病害识别系统<br> | 
-| 车辆追踪计数系统<br/> | 行人追踪计数系统<br> | 
+
 | 反光衣检测预警系统<br/> | 人员闯入报警系统<br> | 
 | 高密度人脸检测系统<br/> | 肾结石检测系统<br> | 
 | 水果检测识别系统<br/> | 蔬菜检测系统<br> |
