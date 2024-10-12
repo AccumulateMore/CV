@@ -231,7 +231,13 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | -------------------- | -------- | 
 | ![60da22c22c1465e9a5770af0da2b6c4](https://github.com/user-attachments/assets/27e3fe15-d51f-463b-9fcc-f30e73e1135b)<br/> | ![d90c32911478d6e8955b6aefb642ef9](https://github.com/user-attachments/assets/765adfc8-e5ff-404f-9be2-39be5d8a4358)<br> |
 
+| 反光衣检测预警系统<br/> | 人员闯入报警系统<br> | 
 
+| ![975144e5d4f2c31d12571a086934832](https://github.com/user-attachments/assets/084d2ed5-a0de-421f-a6f0-ed1fbe67e3fa)<br/> | ![e89e87efd3f18db566daa1380c12049](https://github.com/user-attachments/assets/09d43c22-e08b-4339-b460-5edfe3613c4e)<br> |
+
+| 玉米病害检测系统<br/> | 橙子病害识别系统<br> | 
+| -------------------- | -------- | 
+| ![71ec083fbe77ddc9291f11d2486dc41](https://github.com/user-attachments/assets/c76303cc-74cc-48c6-b32f-c0d778298734)<br/> | ![a69aecb79640eba303ff90e6da722d9](https://github.com/user-attachments/assets/50bd923c-b1f5-428d-848e-88c5cdf31cc8)<br> |
 
 | 项目列表 | 项目列表 |
 | -------------------- | -------- | 
@@ -243,9 +249,6 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 田间杂草检测系统<br/> | 葡萄病害识别系统<br> | 
 | 路面坑洞检测分割系统<br/> | 遥感地面物体检测系统<br> | 
 | 木薯病害识别预防系统<br/> | 野火烟雾检测系统<br> | 
-| 玉米病害检测系统<br/> | 橙子病害识别系统<br> | 
-| 反光衣检测预警系统<br/> | 人员闯入报警系统<br> | 
-
 
 https://github.com/user-attachments/assets/254a48fd-c0d3-4e5b-a612-c91bb5321a61
 
