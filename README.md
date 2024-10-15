@@ -26,7 +26,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 笔记备注：
 
 1. 在线观看笔记时，有时会出现图片（或公式）显示不完整，这是Github网站没有解析好，笔记下载到本地观看就正常了。（不会下载笔记的，百度查一下"Github如何下载文件"。）
-2. Pycharm 的 Jupyter Notebook打开笔记时，图片不会正常显示，笔记是用 Anaconda 的 Jupyter Notebook 打开的。（不会打开笔记的，百度查一下"Anaconda如何打开Jupyter notebook文件"，或者我的主页Python仓库里面"00_Python编辑器"里面有写。）
+2. Pycharm 的 Jupyter Notebook 打开笔记时，图片不会正常显示，笔记是用 Anaconda 的 Jupyter Notebook 打开的。（不会打开笔记的，百度查一下"Anaconda如何打开Jupyter notebook文件"，或者我的主页Python仓库里面"00_Python编辑器"里面有写。）
 3. 安装 Jupyter Notebook 的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。（不会安装目录的，百度查一下"Jupyter notebook如何安装目录"，或者我的主页Python仓库里面"00_Python编辑器"里面有相关链接。）
 
 ![ae3cce2d56a4953972ed4201c085722](https://github.com/AccumulateMore/CV/assets/60348867/20b6a8e9-ad05-4940-93b9-ab63dc75bb7b)
