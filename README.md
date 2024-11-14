@@ -186,9 +186,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ------ |  ------ |  ------ | 
 | ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![d5d3363af9bd84d77f23203c496d1b2](https://github.com/user-attachments/assets/11631b3b-62a5-4af3-b076-2edabfc81bb3)<br/> | ![8d97b9d5d780e63d45d17415b5b078e](https://github.com/user-attachments/assets/d7c2be13-73ab-4808-bcee-c50de824b242)<br> | 
 
-| 小红书offer | 深信服offer | 美团offer | 
+| 小红书offer | 深信服offer | 龙旗offer | 
 | ------ |  ------ |  ------ | 
-| ![8605c29da4c5eee41050e5b01b27aa0](https://github.com/user-attachments/assets/c9545b30-0324-48b6-abb9-67a7ef8924cc)<br/> | ![d8bf9d2544e4f3b52e3ce88f4b4712a](https://github.com/user-attachments/assets/91a949a6-9d64-4b27-804f-00248f6398f7)<br/> | ![1d6188eeb206b704244f41144d146cd](https://github.com/user-attachments/assets/c0fb8c60-6c2b-42b3-9b19-01dff602af5d)<br> | 
+| ![8605c29da4c5eee41050e5b01b27aa0](https://github.com/user-attachments/assets/c9545b30-0324-48b6-abb9-67a7ef8924cc)<br/> | ![d8bf9d2544e4f3b52e3ce88f4b4712a](https://github.com/user-attachments/assets/91a949a6-9d64-4b27-804f-00248f6398f7)<br/> | ![30a5903f8fbb1aedbb445296765bb25](https://github.com/user-attachments/assets/37451154-6066-404e-9e51-0ea94ee94841)<br> | 
 
 | 蚂蚁offer | 小米offer | 影石offer | 
 | ------ |  ------ |  ------ | 
