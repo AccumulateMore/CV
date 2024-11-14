@@ -182,9 +182,13 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ------ |  ------ |  ------ | 
 | ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![0af5cde53809f83c4fba8044b7f69d9](https://github.com/user-attachments/assets/dd9b5b15-8597-4e49-bcfd-5a5d5ac7bb51)<br> | 
 
-| 字节offer | 滴滴offer | 快手offer | 
+| 同学的字节offer | 同学的腾讯offer | 同学的快手offer | 
 | ------ |  ------ |  ------ | 
-| ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![6682dd1eda3008a614814d8131e13a1](https://github.com/user-attachments/assets/f52ca384-d5a9-481a-a4ba-07a21bb29aeb)<br/> | ![8d97b9d5d780e63d45d17415b5b078e](https://github.com/user-attachments/assets/d7c2be13-73ab-4808-bcee-c50de824b242)<br> | 
+| ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![d5d3363af9bd84d77f23203c496d1b2](https://github.com/user-attachments/assets/11631b3b-62a5-4af3-b076-2edabfc81bb3)<br/> | ![8d97b9d5d780e63d45d17415b5b078e](https://github.com/user-attachments/assets/d7c2be13-73ab-4808-bcee-c50de824b242)<br> | 
+
+| 同学的蚂蚁offer | 同学的小米offer | 同学的影石offer | 
+| ------ |  ------ |  ------ | 
+| ![1adc76052c2de299a4deceef48667c0](https://github.com/user-attachments/assets/62d4e894-f642-4639-8044-514afb1eff23)<br/> | ![0df523c8cc8ee83682026a4eebaf4cf](https://github.com/user-attachments/assets/5b2fb242-478b-4efb-bb89-3c9520076be0)<br/> | ![88cd6bb51387f594509ad91db897eec](https://github.com/user-attachments/assets/da740699-4868-4b38-b6e7-e34af24e9f6e)<br> | 
 
 个人经验：成功没有捷径，该走的路一步都不能少走，难啃的骨头都得啃下来。
 
