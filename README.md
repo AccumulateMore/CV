@@ -186,6 +186,10 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ------ |  ------ |  ------ | 
 | ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![d5d3363af9bd84d77f23203c496d1b2](https://github.com/user-attachments/assets/11631b3b-62a5-4af3-b076-2edabfc81bb3)<br/> | ![8d97b9d5d780e63d45d17415b5b078e](https://github.com/user-attachments/assets/d7c2be13-73ab-4808-bcee-c50de824b242)<br> | 
 
+| 小红书offer | 深信服offer | 龙旗offer | 
+| ------ |  ------ |  ------ | 
+| ![8605c29da4c5eee41050e5b01b27aa0](https://github.com/user-attachments/assets/8294762d-3b47-477c-8526-580e5c155841)<br/> | ![d8bf9d2544e4f3b52e3ce88f4b4712a](https://github.com/user-attachments/assets/31412e4e-fdb8-48d9-b50e-767c82a8f33d)<br/> | ![0f69f75a2e1ae04c0a87a8eab809213](https://github.com/user-attachments/assets/d87e565e-efe9-4158-9bd0-09cb61b65d44)<br> | 
+
 | 蚂蚁offer | 小米offer | 影石offer | 
 | ------ |  ------ |  ------ | 
 | ![1adc76052c2de299a4deceef48667c0](https://github.com/user-attachments/assets/62d4e894-f642-4639-8044-514afb1eff23)<br/> | ![0df523c8cc8ee83682026a4eebaf4cf](https://github.com/user-attachments/assets/5b2fb242-478b-4efb-bb89-3c9520076be0)<br/> | ![88cd6bb51387f594509ad91db897eec](https://github.com/user-attachments/assets/da740699-4868-4b38-b6e7-e34af24e9f6e)<br> | 
