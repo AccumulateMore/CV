@@ -182,9 +182,15 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ------ |  ------ |  ------ | 
 | ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![0af5cde53809f83c4fba8044b7f69d9](https://github.com/user-attachments/assets/dd9b5b15-8597-4e49-bcfd-5a5d5ac7bb51)<br> | 
 
+| 字节offer | 滴滴offer | 快手offer | 
+| ------ |  ------ |  ------ | 
+| ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![6682dd1eda3008a614814d8131e13a1](https://github.com/user-attachments/assets/f52ca384-d5a9-481a-a4ba-07a21bb29aeb)<br/> | ![8d97b9d5d780e63d45d17415b5b078e](https://github.com/user-attachments/assets/d7c2be13-73ab-4808-bcee-c50de824b242)<br> | 
+
 个人经验：成功没有捷径，该走的路一步都不能少走，难啃的骨头都得啃下来。
 
 成功最快的方式，就是不走弯路。自己瞎折腾几个月，几个星期就可以搞定。
+
+提供系统性指导：Python、pytorch、常规神经网络原理、常用神经网络调参原理、数据常用处理方式、跑通实践项目，大模型、多模态入门，面试帮忙改简历，面试技巧及反问技巧等。
 
 -------------------------------------------------------------
 -------------------------------------------------------------
