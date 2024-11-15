@@ -184,7 +184,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 | 字节offer | 腾讯offer | 快手offer | 
 | ------ |  ------ |  ------ | 
-| ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![d5d3363af9bd84d77f23203c496d1b2](https://github.com/user-attachments/assets/11631b3b-62a5-4af3-b076-2edabfc81bb3)<br/> | ![8d97b9d5d780e63d45d17415b5b078e](https://github.com/user-attachments/assets/d7c2be13-73ab-4808-bcee-c50de824b242)<br> | 
+| ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![d5d3363af9bd84d77f23203c496d1b2](https://github.com/user-attachments/assets/11631b3b-62a5-4af3-b076-2edabfc81bb3)<br/> | ![b33203709381e8fd3516c69f61d3f25](https://github.com/user-attachments/assets/0cf2b38e-fbdb-4d53-beaf-c888b6180f0f)<br> | 
 
 | 小红书offer | 深信服offer | 小米offer | 
 | ------ |  ------ |  ------ | 
