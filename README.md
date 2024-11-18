@@ -190,15 +190,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ------ |  ------ |  ------ | 
 | ![8605c29da4c5eee41050e5b01b27aa0](https://github.com/user-attachments/assets/8294762d-3b47-477c-8526-580e5c155841)<br/> | ![d8bf9d2544e4f3b52e3ce88f4b4712a](https://github.com/user-attachments/assets/31412e4e-fdb8-48d9-b50e-767c82a8f33d)<br/> | ![5b22aadd665e815c81fc575704d0d18](https://github.com/user-attachments/assets/28ba8010-99cc-47b6-a7ed-4576a1a6561d)<br> | 
 
-
-
 一起沾沾喜气，好运是可以传染的~
 
 个人经验：成功没有捷径，该走的路一步都不能少走。成功最快的方式，就是节约时间、不走弯路。
-
-聪明的人有解决问题的能力，而智慧的人能够避免问题的发生。
-
-最顶级的能力，是提前预判可能出现的问题，并把它消灭在萌芽状态，而不是出现问题后力挽狂澜。
 
 （不要等到火烧眉毛，再来找我抢救.......）
 
