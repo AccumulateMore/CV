@@ -182,13 +182,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ------ |  ------ |  ------ | 
 | ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![0af5cde53809f83c4fba8044b7f69d9](https://github.com/user-attachments/assets/dd9b5b15-8597-4e49-bcfd-5a5d5ac7bb51)<br> | 
 
-| 字节offer | 腾讯offer | 快手offer | 
-| ------ |  ------ |  ------ | 
-| ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![d5d3363af9bd84d77f23203c496d1b2](https://github.com/user-attachments/assets/11631b3b-62a5-4af3-b076-2edabfc81bb3)<br/> | ![b33203709381e8fd3516c69f61d3f25](https://github.com/user-attachments/assets/0cf2b38e-fbdb-4d53-beaf-c888b6180f0f)<br> | 
-
-| 小红书offer | 深信服offer | 小米offer | 
-| ------ |  ------ |  ------ | 
-| ![8605c29da4c5eee41050e5b01b27aa0](https://github.com/user-attachments/assets/8294762d-3b47-477c-8526-580e5c155841)<br/> | ![d8bf9d2544e4f3b52e3ce88f4b4712a](https://github.com/user-attachments/assets/31412e4e-fdb8-48d9-b50e-767c82a8f33d)<br/> | ![5b22aadd665e815c81fc575704d0d18](https://github.com/user-attachments/assets/28ba8010-99cc-47b6-a7ed-4576a1a6561d)<br> | 
+| 字节offer | 深信服offer | 小红书offer |
+| ------ |  ------ | ------ | 
+| ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![7a5beb8cf7c61f89c4a7687437f0813](https://github.com/user-attachments/assets/521e1fd9-e3e0-445b-ae1d-210c7d974fa9)<br> | ![8605c29da4c5eee41050e5b01b27aa0](https://github.com/user-attachments/assets/d167e08c-05e5-4adb-a166-f65d6f0e3ff6)<br> | 
 
 一起沾沾喜气，好运是可以传染的~
 
