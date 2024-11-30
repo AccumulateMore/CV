@@ -173,15 +173,15 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 我已经指导过上千位同学，即使市场大环境不好，很多同学都入职各家公司成功了。
 
-| 金九 内推第一名 | 银十 内推第一名 | 2024内推第一名 | 
+| 2024金九 内推第一名 | 2024银十 内推第一名 | 2024内推第一名 | 
 | ------ |  ------ |  ------ | 
 | ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![0af5cde53809f83c4fba8044b7f69d9](https://github.com/user-attachments/assets/dd9b5b15-8597-4e49-bcfd-5a5d5ac7bb51)<br> | 
 
-| 字节offer | 深信服offer | 小红书offer |
+| 2025字节offer | 2025深信服offer | 2025小红书offer |
 | ------ |  ------ | ------ | 
 | ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![7a5beb8cf7c61f89c4a7687437f0813](https://github.com/user-attachments/assets/521e1fd9-e3e0-445b-ae1d-210c7d974fa9)<br> | ![8605c29da4c5eee41050e5b01b27aa0](https://github.com/user-attachments/assets/d167e08c-05e5-4adb-a166-f65d6f0e3ff6)<br> | 
 
-| 京东offer | 腾讯offer |  作业帮offer |
+| 2025京东offer | 2025腾讯offer |  2025作业帮offer |
 | ------ |  ------ |  ------ | 
 | ![19ec2ae6379abc7fa16c288e31ece10](https://github.com/user-attachments/assets/426f2abc-5f51-4ff3-b4f1-d9f1c7ed0ef3)<br> | ![d5d3363af9bd84d77f23203c496d1b2](https://github.com/user-attachments/assets/ab98573c-fd6e-4277-970b-75ba769978c5)<br/> | ![1de9a7ef137b6c87bf3b4d6fa64f2bd](https://github.com/user-attachments/assets/d03e8dbb-cdc4-4a1e-9384-fabcd32442e5)<br/> |
 
