@@ -175,23 +175,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ------ |  ------ |  ------ | 
 | ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![0af5cde53809f83c4fba8044b7f69d9](https://github.com/user-attachments/assets/dd9b5b15-8597-4e49-bcfd-5a5d5ac7bb51)<br> | 
 
-| 2025届 字节offer | 2025届 深信服offer | 2025届 小红书offer |
-| ------ |  ------ | ------ | 
-| ![f66e0bdf6cdaaf7b2b312b307fa780d](https://github.com/user-attachments/assets/8e6ef52c-b702-429c-9ba3-d416973e9b6b)<br/> | ![7a5beb8cf7c61f89c4a7687437f0813](https://github.com/user-attachments/assets/521e1fd9-e3e0-445b-ae1d-210c7d974fa9)<br> | ![8605c29da4c5eee41050e5b01b27aa0](https://github.com/user-attachments/assets/d167e08c-05e5-4adb-a166-f65d6f0e3ff6)<br> | 
-
-| 2025届 京东offer | 2025届 腾讯offer |  2025届 作业帮offer |
-| ------ |  ------ |  ------ | 
-| ![19ec2ae6379abc7fa16c288e31ece10](https://github.com/user-attachments/assets/426f2abc-5f51-4ff3-b4f1-d9f1c7ed0ef3)<br> | ![d5d3363af9bd84d77f23203c496d1b2](https://github.com/user-attachments/assets/ab98573c-fd6e-4277-970b-75ba769978c5)<br/> | ![1de9a7ef137b6c87bf3b4d6fa64f2bd](https://github.com/user-attachments/assets/d03e8dbb-cdc4-4a1e-9384-fabcd32442e5)<br/> |
-
-| 2025届 科大讯飞offer | 2025届 转转offer | 2025届 华为offer | 
-| ------ |  ------ |  ------ | 
-| ![f0c29162e6e2b5c1acb41b3355c5bd2](https://github.com/user-attachments/assets/0f31deac-4227-4bb0-a7dc-bb3562f88457)<br/> | ![1aa068249d75ed1e9d8b143936a6f3f](https://github.com/user-attachments/assets/209885a1-8a1f-44df-9210-eeada7dad305)<br/> | ![18926e800b80ca5040b6e9da659b3cf](https://github.com/user-attachments/assets/8f95ede9-764f-4c72-aada-7835c888a517)<br> | 
-
 一起沾沾喜气，好运是可以传染的~
-
-个人经验：拿offer最快的方式，就是不走弯路，在少量的时间，积累大量技能。
-
-（不要等到火烧眉毛，再来找我抢救.......）
 
 -------------------------------------------------------------
 -------------------------------------------------------------
