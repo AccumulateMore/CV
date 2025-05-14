@@ -55,7 +55,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 | 【深度学习 学习交流①群】 | 【深度学习 学习交流②群】 | 微信 | 
 | -------- | -------- | -------- |
-| ![312f346ad393a2f617f21da7ffec9d8](https://github.com/AccumulateMore/CV/assets/60348867/c99750a2-89c0-45ed-bf42-e8f63a222d60)<br/> | ![2f44c2648aaf04f393162501e9e4e0a](https://github.com/AccumulateMore/CV/assets/60348867/d6c44e7b-8349-4de3-b91b-ed62ee7c1544)<br/> | ![ad9bc1ef4eccf11a0e521dec10968d3](https://github.com/AccumulateMore/CV/assets/60348867/0d3f05f6-ba72-4a1d-9c5b-6d5f0c8eb8f8)<br> | 
+| ![312f346ad393a2f617f21da7ffec9d8](https://github.com/AccumulateMore/CV/assets/60348867/c99750a2-89c0-45ed-bf42-e8f63a222d60)<br/> | ![2f44c2648aaf04f393162501e9e4e0a](https://github.com/AccumulateMore/CV/assets/60348867/d6c44e7b-8349-4de3-b91b-ed62ee7c1544)<br/> | ![8e4be32088b21d519b0b32f97623be6](https://github.com/user-attachments/assets/e7fad202-09e1-4b33-90d1-91c93312b3a6)<br> | 
 
 超过200人，扫码入群方式失效，只能微信好友邀请入群。
 
