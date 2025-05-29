@@ -178,7 +178,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 | 2024届金九 内推第一名 | 2024届银十 内推第一名 | 2024届年度 内推第一名 | 
 | ------ |  ------ |  ------ | 
-| ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![0af5cde53809f83c4fba8044b7f69d9](https://github.com/user-attachments/assets/dd9b5b15-8597-4e49-bcfd-5a5d5ac7bb51)<br> | 
+| ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![7849d9a28b4242737194a6d3e685688](https://github.com/user-attachments/assets/561e9a32-d188-457e-a7f9-6398c85591c5)<br> | 
 
 一起沾沾喜气，好运是可以传染的~
 
