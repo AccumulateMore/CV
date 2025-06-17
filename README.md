@@ -8,7 +8,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 深度学习 视频讲解【主讲人：李沐】【对应笔记：200-268】
 
-1. https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+1. [https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497](https://space.bilibili.com/1567748478/lists/358497?type=series)
 
 深度学习 视频讲解【主讲人：吴恩达】【对应笔记：300-354】
 
