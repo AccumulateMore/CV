@@ -14,7 +14,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 1. https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
 
-大模型Agent 视频讲解【主讲人：XXXX】【对应笔记：400-4YYY，2025年12月份上线】
+大模型Agent 视频讲解【主讲人：XXX】【对应笔记：400-4YY，2025年12月份上线】
 
 1. 占位符-占位符-占位符-占位符-占位符-占位符-占位符-占位符-占位符-占位符-占位符
 
