@@ -184,10 +184,6 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | ------ |  ------ |  ------ | 
 | ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![7849d9a28b4242737194a6d3e685688](https://github.com/user-attachments/assets/561e9a32-d188-457e-a7f9-6398c85591c5)<br> | 
 
-| 2024届 内推第一名 | 2024届 内推第一名 | 
-| ------ | ------ | 
-| ![19634e072b32fa2a244a4f8551d238c](https://github.com/user-attachments/assets/71e88eb9-c2a8-483d-a4e8-bfcf3f111bac)<br/> | ![19634e072b32fa2a244a4f8551d238c](https://github.com/user-attachments/assets/71e88eb9-c2a8-483d-a4e8-bfcf3f111bac)<br> | 
-
 一起沾沾喜气，好运是可以传染的~
 
 我的经验：拿offer最快的方式，就是不走弯路，在少量的时间，积累大量技能。
