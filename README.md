@@ -44,9 +44,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 1. https://github.com/AccumulateMore
 
-我的YouTube, 面试必刷笔记，希望能帮助到你~
+我的YouTube主页, 还有其他面试必刷的笔记，希望能帮助到你~
 
-1. https://www.youtube.com/@%E5%B0%8F%E7%8E%8B%E5%90%8C%E5%AD%A6%E5%9C%A8%E7%A7%AF%E7%B4%AF
+1. https://youtube.com/@小王同学在积累
    
 "♥我的笔记，希望对你有帮助♥"
 
