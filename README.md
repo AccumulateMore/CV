@@ -185,7 +185,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | <div align="center"><img width="1080" height="1920" src="https://github.com/user-attachments/assets/1fc17ea7-23a5-47a9-9bfe-0f15390bc6a7" /></div> | <div align="center"><img width="1080" height="1920" src="https://github.com/user-attachments/assets/72d93bf4-5f3c-435e-9f87-e80851b5ef1e" /></div> | <div align="center"><img width="1080" height="1920" src="https://github.com/user-attachments/assets/561e9a32-d188-457e-a7f9-6398c85591c5" /></div> |
 | <div align="center">一起沾沾喜气，好运是可以传染的~</div> | <div align="center">一起沾沾喜气，好运是可以传染的~</div> | <div align="center">一起沾沾喜气，好运是可以传染的~</div> |
 
-我的经验：拿offer最快的方式，就是不走弯路，在少量的时间，积累大量技能。
+我的经验：拿offer最快的方式，就是不走弯路，不走错路。方向错了，努力没有意义。
 
 （不要等到火烧眉毛，再来找我抢救.......）
 
