@@ -4,15 +4,15 @@
 
 Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
-1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
+1. https://www.bilibili.com/video/BV1hE411t7RN
 
 深度学习 视频讲解【主讲人：李沐】【对应笔记：200-268】
 
-1. [https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497](https://space.bilibili.com/1567748478/lists/358497?type=series)
+1. https://space.bilibili.com/1567748478/lists/358497?type=series
 
 深度学习 视频讲解【主讲人：吴恩达】【对应笔记：300-354】
 
-1. https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
+1. https://www.bilibili.com/video/BV1FT4y1E74V
 
 大模型Agent 视频讲解【主讲人：XXX】【对应笔记：400-4YY，2025年12月份上线】
 
