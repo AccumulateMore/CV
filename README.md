@@ -14,13 +14,17 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 1. https://www.bilibili.com/video/BV1FT4y1E74V
 
-大模型Agent 视频讲解【主讲人：XXX】【对应笔记：400-4YY，2025年12月份上线】
+大模型Agent 视频讲解【主讲人：大飞】【对应笔记：400-409】
+
+1. https://www.bilibili.com/video/BV1YaRhY9EqV
+
+大模型Agent 视频讲解【主讲人：XXX】【对应笔记：500-5XX，2027年9月份上线】
 
 1. 占位符-占位符-占位符-占位符-占位符-占位符-占位符-占位符-占位符-占位符-占位符
 
-土堆&李沐&吴恩达 数据集（无偿分享）：
+土堆&李沐&吴恩达&大飞 数据集（无偿分享）：
 
-1. 链接：https://pan.baidu.com/s/1jQQ8WyCZUJED0eWMeuXYVg  提取码：7vfm
+1. 链接: https://pan.baidu.com/s/1KTW2WsTy6TFpNdK_WwjBmg 提取码: ppmu
 
 补充说明：数据集链接如果失效了，下面有微信，可以联系我。
 
