@@ -161,7 +161,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 | 综合战绩，遥遥领先~ | 综合战绩，遥遥领先~ |
 | ------ | ------ | 
 | ![f5ac54cf220f2b6647758d614e15516a](https://github.com/user-attachments/assets/b9691fbf-d8ed-425d-831c-8168e3d0bd49)</div> | ![f5ac54cf220f2b6647758d614e15516a](https://github.com/user-attachments/assets/b9691fbf-d8ed-425d-831c-8168e3d0bd49)</div> |
-| <div align="center">一起沾沾喜气，好运是可以传染的~</div> | <div align="center">一起沾沾喜气，好运是可以传染的~</div> |
+| <div align="center">就业指导三年，经验丰富的老师傅</div> | <div align="center">就业指导三年，经验丰富的老师傅</div> |
 
 我的经验（希望对你有帮助）：拿offer最快的方式，就是不走弯路，不走错路。方向错了，努力没有意义。
 
