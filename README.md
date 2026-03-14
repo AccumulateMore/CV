@@ -16,7 +16,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 大模型Agent 视频讲解【主讲人：大飞】【对应笔记：400-409】
 
-1. https://www.bilibili.com/video/BV1YaRhY9EqV
+1. 
 
 大模型Agent 视频讲解【主讲人：XXX】【对应笔记：500-5XX，预计明年上线】
 
