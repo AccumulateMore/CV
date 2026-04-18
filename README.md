@@ -114,9 +114,9 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 -------------------------------------------------------------
 -------------------------------------------------------------
 
-感谢20K程序员同学认可，Star的都能找到好工作～（实时更新）
+感谢20K程序员同学认可，Star的都能找到好工作～
 
-[![Star History Chart](https://api.star-history.com/chart?repos=AccumulateMore/CV&type=date&legend=top-left)](https://www.star-history.com/?repos=AccumulateMore%2FCV&type=date&legend=top-left)
+<img width="1546" height="1350" alt="37354efb276b6b92e9a2bc7f5210bd13" src="https://github.com/user-attachments/assets/97facd28-cbed-4815-97da-546ee73d2e91" />
 
 -------------------------------------------------------------
 -------------------------------------------------------------
