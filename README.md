@@ -114,4 +114,19 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 -------------------------------------------------------------
 -------------------------------------------------------------
 
+（实时更新）感谢20K程序员同学认可，Star的都能找到好工作～
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=AccumulateMore%2FCV&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=AccumulateMore/CV&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=AccumulateMore/CV&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=AccumulateMore/CV&type=date&legend=top-left" />
+ </picture>
+</a>
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+
 "♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"
