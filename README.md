@@ -116,7 +116,7 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 感谢20K程序员同学认可，Star的都能找到好工作～
 
-<img width="1546" height="1350" alt="37354efb276b6b92e9a2bc7f5210bd13" src="https://github.com/user-attachments/assets/97facd28-cbed-4815-97da-546ee73d2e91" />
+<img width="1502" height="1338" alt="cc42d7c14a6e0836df2f50cdffbf0944" src="https://github.com/user-attachments/assets/8af56efd-3c9f-4d25-afcd-71771beacd06" />
 
 -------------------------------------------------------------
 -------------------------------------------------------------
